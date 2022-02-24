@@ -1,0 +1,872 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three choice and profitable sermons upon severall texts of Scripture viz. Jer. 30. 17, John 14. 3, Heb. 8. 5 : the first of them being the last sermon which he preached at the court of election at Boston, the second was the last which he preached on the Lords-Day, the third was the last which he preached on his weekly-lecture-day : wherein (beside many other excellent and seasonable truths) is shewed, the Lords soveraignty over, and care for his church and people, in order to both their militant and triumphant condition, and their fidelity and good affection towards himself / by that reverend servant of Christ, Mr. John Norton ...</title>
+            <author>Norton, John, 1606-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52476</idno>
+            <idno type="STC">Wing N1324</idno>
+            <idno type="STC">ESTC R40050</idno>
+            <idno type="EEBO-CITATION">18672456</idno>
+            <idno type="OCLC">ocm 18672456</idno>
+            <idno type="VID">108144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1658:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three choice and profitable sermons upon severall texts of Scripture viz. Jer. 30. 17, John 14. 3, Heb. 8. 5 : the first of them being the last sermon which he preached at the court of election at Boston, the second was the last which he preached on the Lords-Day, the third was the last which he preached on his weekly-lecture-day : wherein (beside many other excellent and seasonable truths) is shewed, the Lords soveraignty over, and care for his church and people, in order to both their militant and triumphant condition, and their fidelity and good affection towards himself / by that reverend servant of Christ, Mr. John Norton ...</title>
+                  <author>Norton, John, 1606-1663.</author>
+                  <author>Norton, John, 1606-1663. Copy of the letter returned by the ministers of New-England to Mr. John Dury about his pacification.</author>
+               </titleStmt>
+               <extent>[6], 38, [6], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.G. and M.I. for Hezekiah Usher of Boston,</publisher>
+                  <pubPlace>Cambridge [Mass.] :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also includes ([6], 12 p. at end): A copy of the letter returned by the ministers of New-England to Mr. John Dury about his pacification / faithfully translated out of the original manuscript written in Latine, by the reverend author of the Three former sermons. [S.l. : s.n.], 1664.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Massachusetts --  Sermons.</term>
+               <term>Elections --  Massachusetts --  Sermons.</term>
+               <term>Christian union.</term>
+               <term>Sermons, American.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:108144:1"/>
+                  <pb facs="tcp:108144:1" rendition="simple:additions"/>
+                  <p>Three Choice and Profitable SERMONS Upon Severall TEXTS of SCRIPTURE; <hi>VIZ. JER.</hi> 30.17. <hi>JOHN</hi> 14.3. <hi>HEB.</hi> 8.5.</p>
+                  <p>By that Reverend Servant of Chriſt, M<hi rend="sup">R.</hi> JOHN NORTON <hi>Late Teacher of the Church of Chriſt at</hi> Boſton <hi>in</hi> N.E.</p>
+                  <list>
+                     <item>The Firſt of them being the LAST SERMON which he Preached at the Court of Election at <hi>Boſton.</hi>
+                     </item>
+                     <item>The Second was the LAST which he Preached on the Lords-Day.</item>
+                     <item>The Third was the LAST which he Preached on his Weekly-Lecture-Day.</item>
+                  </list>
+                  <p>WHEREIN (Beſide many other excellent and ſeaſonable Truths) is ſhewed, the Lords Soveraignty over, and Care for his Church and People, in order to both their Militant and Triumphant condition; and their Fidelity and good affection towards himſelf.</p>
+                  <q>
+                     <bibl>
+                        <hi>2 Sam. 23.1.</hi>
+                     </bibl>
+                     <p>Now theſe be the LAST words of David. David the ſon of Jeſſe ſaid, and the man who was raiſed up on high, the Anointed of the God of Jacob, and the ſweet Pſalmiſt of Iſrael.</p>
+                  </q>
+                  <q>
+                     <bibl>
+                        <hi>Deut. 31.29.</hi>
+                     </bibl>
+                     <p>For I know, that after my death ye will utterly corrupt your ſelves, and turn aſide from the way which I have commanded you: and evil will befall you in the latter days, <hi>&amp;c.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <bibl>
+                        <hi>Ezra 3 3.</hi>
+                     </bibl>
+                     <p>And they ſet the Altar upon his Baſes; for fear was upon them, becauſe of the people of thoſe Countries.</p>
+                  </q>
+                  <q>
+                     <bibl>
+                        <hi>Zech. 1.5, 6.</hi>
+                     </bibl>
+                     <p>Your fathers, where are they? and the Prophets, do they live for ever? but my words and my ſtatutes which I commanded my ſervants the Prophets, did they not take hold of your fathers? and they returned and ſaid, Like as the Lord of Hoſts thought to do unto us, according to our wayes, and according to our doings, ſo hath he dealt with us.</p>
+                  </q>
+                  <p>
+                     <hi>CAMBRIDGE:</hi> Printed by <hi>S.G.</hi> and <hi>M.I.</hi> for <hi>Hezekiah <g ref="char:V">Ʋ</g>ſher</hi> of <hi>Boſton.</hi> 1664.</p>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:108144:2" rendition="simple:additions"/>
+                  <pb facs="tcp:108144:2"/>
+                  <head>JOHANNES NORTONUS. ANAGR. <hi>NONNE IS HONORAT<g ref="char:V">Ʋ</g>S?</hi>
+                  </head>
+                  <lg>
+                     <l>NOnne is Honoratus? Deus ipſe coronat honore</l>
+                     <l>Servum, (cum periit) non pereunte, ſuum.</l>
+                     <l>Abſtulit <hi>Enôchum</hi> tranſlatio mira, ſed ejus</l>
+                     <l>In Coelis decorat pulchra Corona Caput.</l>
+                     <l>Qui nobis, (ſubito raptus) miſer eſſe videtur</l>
+                     <l>(Forſitan, Ignaris) vivit at uſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Deo.</l>
+                     <l>Vivit, &amp; in Coelis cumulatus honoribus amplis</l>
+                     <l>Regnat in aeternum (ſic ait ipſe Deus.)</l>
+                     <l>Mors inopina poteſt <hi>Jobi</hi> cito perdere Natos,</l>
+                     <l>Sors quibus in ſuperis inviolata datur.</l>
+                     <l>Multa priùs paſſi <hi>Moſes Aaron<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>
+                        </hi> fuere,</l>
+                     <l>Tempus &amp; ante ſuum juſſus uter<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> mori.</l>
+                     <l>Quid ſi non licuit <hi>Canaanem</hi> viſere? Tanto</l>
+                     <l>Celſior in Coelis ceſſit utri<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> locus.</l>
+                     <l>Curribus ignitis <hi>Elias</hi> raptus; at illis</l>
+                     <l>Ad ſummi vehitur culmina ſumma poli.</l>
+                     <l>Eſto. Sit in Bello <hi>Joſias</hi> victus, &amp; ictus,</l>
+                     <l>Mortuus in pace eſt non pereunte tamen.</l>
+                     <l>Funera non unquam Mage lamentanda <hi>Sioni,</hi>
+                     </l>
+                     <l>
+                        <hi>Joſiae</hi> nunquàm Gloria major erat.</l>
+                     <l>Quem deflent homines, Deus optimus auget honore</l>
+                     <l>His dolor, aſt illi Gloria ſumma fuit.</l>
+                     <l>Si Caput amiſit (gladio reſecante) <hi>Iohannes,</hi>
+                     </l>
+                     <l>Ejus honor, (Chriſto judice) quantus erat!</l>
+                     <l>Sit <hi>Stephanus</hi> lapidum (licet) obrutus ictibus, Illum</l>
+                     <l>Chriſtus in amplexut traxerat inde ſuos.</l>
+                     <l>
+                        <pb facs="tcp:108144:3"/>
+Chriſtus &amp; ipſe fuit quàm dirâ morte peremptus</l>
+                     <l>At ſequitur tantam Gloria quanta Crucem!</l>
+                     <l>Sic Deus ut Chriſtum, ſic Chriſtus honore Coronat</l>
+                     <l>Eximio, quibus eſt Gloria chara Dei.</l>
+                     <l>Qualis erat noſter (ſyncero corde) <hi>Iohannes</hi>
+                     </l>
+                     <l>Cui, niſi quae Chriſti, chara fuere nihil.</l>
+                     <l>Hoc (ſcio) nemo negat, niſi veri Teſtis &amp; aequi</l>
+                     <l>Non velit eſſe (Bonos Conſule, ſive malos.)</l>
+                     <l>Pro <hi>Samuele</hi> olim conteſtabantur &amp; omneis</l>
+                     <l>(Hunc qui pro meritis vix coluere ſuis)</l>
+                     <l>Vel ſiquis forſan magis invidet Ejus honori,</l>
+                     <l>Hinc cumulus creſcet major honoris ei.</l>
+                  </lg>
+                  <lg>
+                     <head>Anagr. 2.</head>
+                     <l>
+                        <hi>JES<g ref="char:V">Ʋ</g>! ANNON THRONOS?</hi>
+                     </l>
+                     <l>JOHANNES NORTONIUS.</l>
+                  </lg>
+                  <lg>
+                     <head>Anagr. 3.</head>
+                     <l>ANNON JES<g ref="char:V">Ʋ</g> HONOR SIT?</l>
+                     <l>ANnon dandus honor ſit ab omnibus omnis Jeſu?</l>
+                     <l>Eſt quibus in Jeſu ſanguine parta ſalus?</l>
+                  </lg>
+                  <lg>
+                     <head>ENGLISH.</head>
+                     <l>OH Ieſu! haſt not thou prepared Thrones</l>
+                     <l>For us thy poor and ill deſerving ones?</l>
+                     <l>How ſhould we then to Thee all Honour give,</l>
+                     <l>And to thy Name, who in the Heav'ns doſt live,</l>
+                     <l>And there prepareſt Manſions for thine,</l>
+                     <l>Where they may all in endleſs Glory ſhine?</l>
+                  </lg>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:108144:3"/>
+                  <head>To the ſame purpoſe.</head>
+                  <head type="sub">JOHN NORTON. Anagr. INTO HONNOR.</head>
+                  <lg>
+                     <l>FRom Honour into Honour go (the Lord thus calling thee)</l>
+                     <l>To higher Honour, then there could on Earth obtained bee.</l>
+                     <l>Heav'n is the Seat of Honour for thoſe whom he Crowns with Grace;</l>
+                     <l>For the moſt honourable Crowns, Heav'n is the onely place.</l>
+                     <l>By men that are moſt ignorant of Gods revealed Will,</l>
+                     <l>Thou may'ſt be miſerable thought; for ſo they conſtrue ſtill</l>
+                     <l>(Like bruitiſh ones) the minde of God if Saints die in a ſwoon,</l>
+                     <l>As if their Sun, all bright before, Were now gone down at Noon.</l>
+                     <l>As if their caſe were now by farre the more to be deplor'd,</l>
+                     <l>As that which doth but little hope (or none) of Bliſs afford.</l>
+                     <l>Yea, holy <hi>Job</hi> his Friends to this did too-too much incline,</l>
+                     <l>
+                        <hi>[That ſudden Changes, ſuch us his, do argue Wrath divine.]</hi>
+                     </l>
+                     <l>But when the Saints do periſh thus (as fooliſh men conceive)</l>
+                     <l>That is the time, and means whereby more Honour they receive,</l>
+                     <l>As being Crown'd with Royal Crowns which are at Gods right hand.</l>
+                     <l>Like <hi>Joſeph</hi> from his Dungeon rais'd by the Kings Command.</l>
+                     <l>'Twas a tranſlation marvellous which did <hi>Enoch</hi> remove</l>
+                     <l>From out this ſinful world, to be crown'd in the Heav'ns above,</l>
+                     <l>Where now he lives, &amp; reigns, with heaps of higheſt honour fill'd,</l>
+                     <l>All his Predictions to be from time to time fulfill'd.</l>
+                     <l>An unegnected death did ſaize on <hi>Jobs</hi> poſteritie,</l>
+                     <l>But in the Heiv'ns a glorious Lot for them prepar'd did lie.</l>
+                     <l>
+                        <hi>Moſes</hi> and <hi>Aaron</hi> when as they had ſuffer'd much, were bid</l>
+                     <l>As 't were, before their time to die (as in their Mounts they did)</l>
+                     <l>What if the Land of <hi>Canaan</hi> they might not viſit? yet</l>
+                     <l>A place more glorious in the Heav'ns they, both of them, did get.</l>
+                     <l>In flaming-fiery-Charet wrapt from earth <hi>Elijah</hi> was,</l>
+                     <l>And by the ſame convey'd he was unto his bliſs-ful place.</l>
+                     <l>Be it that good <hi>Joſiah</hi> were cut off with ſuddain ſtroke,</l>
+                     <l>He dy'd in peace, and unto reſt eternal was he toke.</l>
+                     <l>No funeral to Sion was as his ſo lamentable,</l>
+                     <l>Yet was his death as well as life to him moſt honourable.</l>
+                     <l>Theirs was the griefe, the joy was his., God highly honourd him,</l>
+                     <l>Although his death to carnal eyes might miſerable ſeem.</l>
+                     <l>The curſed executioner cut off <hi>John Baptiſt</hi>'s head,</l>
+                     <l>But how did Jeſus honour him both when alive, and dead.</l>
+                     <l>The Crowned Martyr holy <hi>Stephen</hi> in cruel wiſe was ſton'd,</l>
+                     <l>But by his bleſſed Saviour's moſt ſweet imbraces own'd.</l>
+                     <l>Yea, Chriſt himſelf, Gods own dear Son, whoſe death more woeful was</l>
+                     <l>Yet from his croſs how ſoon advanc'd to that moſt glorious place!</l>
+                     <l>So God his Chriſt, with honour crown'd; So Chriſt doth honour his,</l>
+                     <l>To whom Gods Honour, and his Chriſt's, moſt dear and precious is.</l>
+                     <l>And ſuch an one our <hi>Norton</hi> was whoſe death we ſo lament,</l>
+                     <l>Whoſe whole deſire was upon Chriſt and on his glory bent</l>
+                     <l>None can deny it good nor bad, like as to <hi>Samuel</hi>
+                     </l>
+                     <l>They all were forced to confeſs he had done all things well.</l>
+                     <l>If any one ſhould have an heart. with envy fill'd ſo much</l>
+                     <l>As unto him his honour due, malignantly to grutch</l>
+                     <l>
+                        <pb facs="tcp:108144:4"/>
+Yet this will adde unto the weight of his moſt glorious Crown,</l>
+                     <l>And both in ſight of God and men increaſe his high renown.</l>
+                     <l>Tis true: he was a man, and none himſelf abhorred more;</l>
+                     <l>But none did more the Lords free grace in Jeſus Chriſt adore.</l>
+                     <l>Nothing but this, to know, or preach, or ſhare in did he wiſh.</l>
+                     <l>This was on Earth, as 'tis in Heav'n his bleſſed Paradice.</l>
+                     <l>To Honour Chriſt, he was content as well by Sea, as Land,</l>
+                     <l>His Life to venture, yea his. ALL, was All at Chriſt's Command.</l>
+                     <l>The care of all His Churches-dear lay heavy on his heart,</l>
+                     <l>As he did ever, but at laſt, moſt fully it impart.</l>
+                     <l>His life was nothing but of death a daily meditation,</l>
+                     <l>And to his happy end, at laſt, a ſolemn preparation.</l>
+                     <l>He was a man (if any were) that loved truth, and peace,</l>
+                     <l>Which to promote, in every kinde he ne're at all did ceaſe.</l>
+                     <l>An Orthodox Divine he was (his writings all do ſhow,)</l>
+                     <l>Both Englands, Holland, all the World, or do or may it know.</l>
+                     <l>His Books do Antichriſt confute with all his viperous brood,</l>
+                     <l>Eſpecially where they eclipſe the merits of Chriſts blood.</l>
+                     <l>Church-holy-order he maintain'd againſt <hi>Morellianiſme,</hi>
+                     </l>
+                     <l>Decrying every ſect, but moſt abhorring <hi>Quakeriſme.</hi>
+                     </l>
+                     <l>His laſt both words, and works (like Davids) were the beſt</l>
+                     <l>And as his death more neer approach'd more lively then the reſt.</l>
+                     <l>Nothing, but things at Gods right hand, and heavenly Manſions</l>
+                     <l>Was in his thoughts, at home, abroad, breath'd in's expreſſions.</l>
+                     <l>Ipſwich was happy, Boſton more, (if it we had but known)</l>
+                     <l>Whom two ſuch <hi>Johns</hi> ſucceſſively God gave to be their own.</l>
+                     <l>But <hi>John</hi> and <hi>Paul,</hi> ſo much admir'd (and moſt deſervedly)</l>
+                     <l>Muſt be content to be abaſ'd by ſome, before they dy:</l>
+                     <l>And being dead, it will appeare ſuch Prophets once we had,</l>
+                     <l>When God hath once abaſed us with changes very ſad.</l>
+                     <l>The Lord, if his good pleaſure be, our miſeries prevent,</l>
+                     <l>And of our great unthankfulneſs, grant that we may repent.</l>
+                     <l>Then will the Lord this Widow-Church, that widows houſe relieve,</l>
+                     <l>And make us all rejoyce again, whom now he makes to grieve.</l>
+                     <l>We griev'd him firſt, and juſt it was that he ſhould grieve our hearts,</l>
+                     <l>Though when at low'ſt we are, tis far beneath our juſt deſerts.</l>
+                     <l>I ſpeak of all New-England, but chiefly of Boſton Church,</l>
+                     <l>Oh! let us all impartially our wayes and ſpirits ſearch;</l>
+                     <l>And ſay as the Diſciples did, Lord, is it I? is't I?</l>
+                     <l>And thou, my ſoule, beyond the reſt It to thy ſelf applie.</l>
+                     <l>Tis thou haſt ſinned: were there none, but thy unworthineſs</l>
+                     <l>Well might the Lord both thee, and all, becauſe of thee, diſtreſs.</l>
+                     <l>When ſuch green trees, as were thoſe <hi>Johns</hi> Gods hand thus ſpareth not,</l>
+                     <l>Of ſuch a dry and withered one Lord what will be the lot?</l>
+                     <l>However we muſt bleſs thy name (what ere of us become)</l>
+                     <l>That thou takes up ſuch fruitful ones to thine eternal home.</l>
+                     <l>Oh! that their rare Examples wee to follow had the grace!</l>
+                     <l>That thou may'ſt count us worthy once of that moſt glorious place.</l>
+                     <l>As for his <hi>Mary,</hi> let her ſay, <hi>[Rabboni]</hi> unto him,</l>
+                     <l>Who calls her <hi>[Mary]</hi> by her Name, and did her Soul redeem.</l>
+                  </lg>
+                  <bibl>Iohn Wilſon <hi>Sen.</hi>
+                  </bibl>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="sermon">
+                  <pb n="1" facs="tcp:108144:4" rendition="simple:additions"/>
+                  <head>SION the Out-caſt healed of her Wounds.</head>
+                  <head type="sub">BEING THE FIRST SERMON: AND Preached at the COURT of ELECTION, <hi>MAY</hi> XXII. 1661.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>Jerem. 30.17.</hi>
+                        </bibl>
+                        <p>For I will reſtore health unto thee, and I will heal thee of thy wounds, ſaith the Lord; becauſe they called thee an Out-caſt, ſaying, This is Sion, whom no man ſeeketh after.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">T</seg>His Text may be called <hi>A Divine Plaiſter for a Sin<g ref="char:EOLhyphen"/>ſick Out-caſt:</hi> in other words it is <hi>Gods Cure of</hi> Sion, <hi>when incurably Wounded.</hi> You have here the Patient deſcribed from divers Adjuncts: ſome Inherent, a<g ref="char:EOLhyphen"/>biding in the Patient; ſome Extrinſecal, relating to the Patient. That which is Abiding, is that ſhe is an Out-caſt, Wounded, and Sick: That which is Extrinſecal, relateth either to the Specta<g ref="char:EOLhyphen"/>tors, or to the Phyſician. To the Beholders: and there you have their diſaffection, <hi>viz. They called thee an Out-caſt, ſaying, &amp;c.</hi> To the Phyſician: and there you have his affection, <hi>viz. I will reſtore health to thee, and will heal thee of thy wounds:</hi> which Af<g ref="char:EOLhyphen"/>fection is amplified, 1. From the Cauſe, <hi>Becauſe they called thee an Out-caſt, therefore will I heal thee.</hi> 2. From the Infallibility of it, upon the teſtimony of this Phyſician; <hi>Thus ſaith the Lord.</hi> They ſay, <hi>Thou art an Out-caſt:</hi> the Lord ſaith, <hi>He will reſtore her.</hi>
+                  </p>
+                  <p>
+                     <pb n="2" facs="tcp:108144:5" rendition="simple:additions"/>
+To open the words briefly. The <hi>Patient,</hi> Here you finde, 1. An <hi>[Out-caſt].</hi> It doth immediately look to the good Figs that were in <hi>Babylon,</hi> and they were in a manner voluntary Exiles, they yielded themſelves to go: and ſuch an Out-caſt is here meant, as is not onely caſt out of the Country, but out of the hearts and affections of others. Several Compariſons there are, that ſet forth this <hi>Out-caſt;</hi> as, that of a menſtruous woman, <hi>Lam.</hi> 1.17. of the perſon caſt out of the Synagogue, <hi>Ezra</hi> 10 8. <hi>Ioh.</hi> 9 22. and that of the Leper, 2 <hi>Chron.</hi> 26.21. he dwells in an houſe apart; and as <hi>Iephthah,</hi> thruſt and expelled out of his Fathers houſe; caſt out of doors, and out of hearts and eſteem. 2. But not onely is <hi>Sion</hi> an Out-caſt, but an Out-caſt <hi>[Wounded]</hi> and it is <hi>Laeſio ad mortem,</hi> a deadly wound; and an incurable wound, <hi>Ier.</hi> 30.12. <hi>i. e.</hi> according to man: And not a green Wound, but an Ulcer, a feſtered Wound and Sore; and no wonder then ſhe is alſo ſick. And if we look to the Extrinſecal Adjunct, which accom<g ref="char:EOLhyphen"/>pany this Patient, there is that which relates unto
+<list>
+                        <item>1. The Beholders: They ſay <hi>[This is Sion, whom no man ſeek<g ref="char:EOLhyphen"/>eth after.]</hi> They did reproach her, and there was no denial of it; <hi>Is not this</hi> Sion! 'tis ſpoken in way of deriſion: the ſarcaſm of an Enemy. <hi>Sion</hi> was a word of honour, but they here relate to the Notation of the Hebrew word, from <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> 
+                           <hi>Siccitas,</hi> as being a day, withered, ſapleſs thing; a barren, and forſaken, and undeſirable place and ſociety. And further <hi>[Whom no man ſeek<g ref="char:EOLhyphen"/>eth after]</hi> Neither this ſort of men, nor that ſort of men; none hath any care of her welfare.</item>
+                        <item>2. A ſecond kinde of Extrinſecal Adjuncts relate unto the Phyſician; <hi>[Therefore I will reſtore health unto thee, and I will heal thee]</hi> Now God will apply a ſanative Cataplaſm, an healing Pla ſter: This is Repentance, and Reſtitution, <hi>Ier.</hi> 31.9. Re<g ref="char:EOLhyphen"/>pentance, and their Return, make up the ſanative Plaiſter. In reſpect of her ſelf, there was need of Repentance; in reſpect of the adverſary, there was need of Reduction. And the Cauſe of it, viz. <hi>[Becauſe they called thee an Out-caſt]</hi> as who ſhould ſay, I am ſenſible of all thy caſe, and the opprobrie thou haſt ſuffered, therefore will I reſtore thee. But ſhall not this fail?
+<pb n="3" facs="tcp:108144:5"/>No, Jehovah's word is engaged for it, <hi>Thus ſaith the Lord.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Doct. <hi>When</hi> Sion <hi>for its ſin is become an Out-caſt (a ſubject of contempt) God takes occaſion from her Calamity to give her Repentance, that ſo he may bring upon her the Bleſſing of his own People.</hi>
+                  </p>
+                  <p>I will not more then intimate to you the Paradoxes that the Text doth abound with. <hi>Sion,</hi> and acknowledged, and yet no man careth for her. A People, none neglected like them; a People, none beloved like them: Neglected, if you look at men; beloved, if you look at God. A People, whoſe very adverſaries are inſtrumental to their proſperity. Theſe are ſuch Riddles, as we may truely ſay Gods grace onely makes. A ſtrange occaſion may that ſeem to be, which God takes for the healing of his People in <hi>Iſa.</hi> 57.17, 18. <hi>I have ſeen his wayes</hi> (<hi>i. e.</hi> his froward<g ref="char:EOLhyphen"/>neſs and covetouſneſs) <hi>and will heal him.</hi> Ezek. 11.15, 16, 17. <hi>Thy brethren, even thy brethren, &amp;c. they ſay, Get ye farre from the Lord, unto us is the land given in poſſeſſion: Therefore ſay, Thus ſaith the Lord, although I have caſt them farre off, &amp;c. though I have ſcattered them, &amp;c. yet will I be a little Sanctuary unto them— I will gather you, &amp;c.</hi> Zech. 3.2. <hi>The Lord rebuke thee, O Satan, even the Lord that hath choſen Jeruſalem: Is not this a brand pluckt out of the fire?</hi> They had been in the Furnace long enough. As the Lord dealeth thus with his people, ſo <hi>Davia</hi> maketh uſe of the like in his perſonal caſe, 2 <hi>Sam.</hi> 16.12. <hi>It may be the Lord will look upon mine affliction, and requite me good, &amp;c. bleſs me, becauſe of his curſing.</hi>
+                  </p>
+                  <p>The Reaſons of the point, are:</p>
+                  <p>
+                     <hi>Reaſ.</hi> 1. From the Sympathy that there is between the Head and the Members. Chriſt is ſenſible of the ſufferings of his Out<g ref="char:EOLhyphen"/>caſt. It is true, that the Out-caſt doth ſuffer; it is a greater truth, that the God of the Out-caſt ſuffereth. Iſa. 63.9. <hi>In all their affliction, he was afflicted:</hi> it relateth to Iſrael in <hi>Egypt.</hi> Zech. 2.8. <hi>He that toucheth you, toucheth the apple of his Eye:</hi> it relateth to the good Figs in exile. It is no little eaſe that our ſorrows
+<pb n="4" facs="tcp:108144:6"/>touch Chriſt, according to <hi>Heb.</hi> 4.15. <hi>We have not an high Prieſt that cannot be touched, &amp;c.</hi> What though the Out-caſt ſuffereth for ſin, yet he hath a ſufferer with him: and in this reſpect what <hi>Paul</hi> ſaid to his Corinthians, 2 <hi>Cor.</hi> 2.2. that doth Chriſt ſay to his Out-caſt, <hi>If I make you ſorry, who is he that maketh me glad, but the ſame that are made ſorry by me?</hi>
+                  </p>
+                  <p>
+                     <hi>Reaſ.</hi> 2. Becauſe that Gods Name ſuffereth, while his Out<g ref="char:EOLhyphen"/>caſts do thus ſuffer. <hi>Exod.</hi> 32.12. if God ſhould deſtroy Iſrael, the Egyptians will ſay, <hi>For miſchief hath he brought them, &amp;c.</hi> Deut. 32.27. <hi>Were it not that I feared the wrath of the enemy, leſt their adverſaries ſhould behave themſelves ſtrangely, and ſay, Our hand is high, and the Lord hath not done all this.</hi> You remember the argu<g ref="char:EOLhyphen"/>ment which <hi>Ioſhua</hi> uſeth, Chap. 7, 8, 9. <hi>When Iſrael falleth before the enemy, what wilt thou do to thy great Name?</hi> The deſtruction of Iſrael would raiſe a ſcandal to Religion, and the God of Iſrael.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 3. To capacitate the Out-caſt to receive the benediction of a Father, the actual bleſſing of his People. To be Gods peo<g ref="char:EOLhyphen"/>ple, is one thing; but to be made meet to receive the bleſſing of his people, is another thing. <hi>Zech.</hi> 3.2. <hi>The Lord, even the Lord that hath choſen Ieruſalem, &amp;c.</hi> God in election hath made them his people, and determined to bleſs them: 'tis this that doth pluck the brand out of the fire. Ier. 24.5, 6, 7. <hi>I will ſet mine eyes upon them for good, I will bring them again, I will build them, I will give them an heart to know me, &amp;c.</hi> Ier. 30.22. &amp; 31.33. <hi>I will be their God, and they ſhall be my people:</hi> and verſ. 9. <hi>Ye ſhall come with weep<g ref="char:EOLhyphen"/>ing and ſupplications, &amp;c. [Ye ſhall come]</hi> there is their Return; <hi>[with weeping and ſupplications]</hi> there is their Repentance: and the Lord hath undertaken for it; <hi>I am a father to</hi> Iſrael, <hi>and</hi> Ephraim (as bad as he is) <hi>is my firſt-born.</hi> The cauſe of their being his people, a penitent people, a bleſſed people, is his fatherly relation to them, Ier. 32.38, 39. Ier. 30.7. <hi>Alas, it is the time of</hi> Iacobs <hi>trouble, but he ſhall be ſaved out of it.</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 1. <hi>Inſtruction</hi> 1. Hence learn, that <hi>Sion</hi> is ſubject to ſad Apoſtacy, or defections. <hi>Ier.</hi> 2.5, 13, 21. <hi>I planted thee a noble vine.</hi> We muſt acknowledge, God planted us, I may ſay, a Scrip<g ref="char:EOLhyphen"/>ture vine, and, if ſo, a noble vine: but you ſee a generous vine
+<pb n="5" facs="tcp:108144:6"/>ſubject to be a degenerate vine. <hi>Exod.</hi> 32.7, 8. <hi>They turned aſide quickly.</hi> But as the Oratour ſolemnizing a ſad funeral, deſired to have learned Mortality from another Inſtance, rather then that of <hi>Scaliger;</hi> ſo I would God would learn us this truth from ſome other inſtances, rather then from theſe Churches. I may men<g ref="char:EOLhyphen"/>tion notwithſtanding, the Polititians obſervation concerning the ſtage of action uſually changed in thirty years; becauſe the perſons that make the <hi>major</hi> vote, are uſually changed, and gone by that time. Something about that time, hath our time been in this land, now perhaps the <hi>major</hi> vote is changed; you may ſay in ſuch and ſuch a caſe many a time, and had ſuch been alive, theſe actions, and thoſe, in Church or Court, would not have been ſo carried on. But I will not dwell here. I wiſh we might learn ſuch in<g ref="char:EOLhyphen"/>ſtances from ſome other example, and not from our ſelves.</p>
+                  <p>
+                     <hi>Inſtr.</hi> 2. <hi>Sions</hi> Apoſtacy brings upon <hi>Sion</hi> ſad Calamity. 'Tis a truth, that Iſrael embraceth not God, til God firſt embrace Iſrael: 'tis alſo a truth, that God forſaketh not Iſrael, till Iſrael firſt for<g ref="char:EOLhyphen"/>ſake him. <hi>Ier.</hi> 5.25. <hi>If good things be withheld from us, Iniquity is the cauſe. Lam.</hi> 3.39. if evil things be brought upon us, the cauſe is ſin. There was a time when <hi>Solomon</hi> was at reſt, 1 <hi>Kings</hi> 5.4. <hi>There was no adverſary, nor evil occurrent;</hi> there was a time (again) when <hi>Solomon</hi> had many adverſaries, 1 <hi>King.</hi> 11.14, 23, 26. <hi>Solomon</hi> hath reſt, while he is in his integrity; <hi>Solomon</hi> hath ad<g ref="char:EOLhyphen"/>verſaries, that was the time of his Apoſtacy. Is there no diſpenſa<g ref="char:EOLhyphen"/>tion but <hi>Iudah</hi> muſt ſerve <hi>Shiſhak?</hi> 2 <hi>Chron.</hi> 12.8. what is the reaſon thereof? it is becauſe they would not ſubject themſelves to the yoke of God: not the power of the Egyptians, but their non-ſubjection to God, made them ſubjects to <hi>Shiſhak. Ier.</hi> 14.11. <hi>&amp;</hi> 7.16. <hi>Ieremiah, pray not for them, I will not hear, ſaith the Lord:</hi> there is no diſpenſation, <hi>Ier.</hi> 27.12. non-ſubjection to the yoke of Chriſt, ſubjected <hi>Iudah</hi> to the yoke of <hi>Babylon.</hi> Abuſe of Liberty, is that which forfeiteth the uſe of liberty.</p>
+                  <p>
+                     <hi>Inſtr.</hi> 3. <hi>Sions</hi> Maladie is not cureable with Calamity, <hi>Iſai.</hi> 4.8.10. would not one think a furnace ſhould cure the outcaſt? they are ſo good, that they are called <hi>the good figs,</hi> and yet ſo bad, as that ſeventy years captivity would not make them good enough
+<pb n="6" facs="tcp:108144:7"/>for the end. Thoſe that were ſeventy years in the furnace do cry out, <hi>Lord, why haſt thou hardned our hearts from thy fear? Iſai,</hi> 63.17. you that think you have a new man, do not forget that you have within you alſo an old man, and calamity will not re<g ref="char:EOLhyphen"/>move it. The hard-heartedneſs of good people is very ſtrange. <hi>Heb.</hi> 3.8. <hi>Harden not your hearts:</hi> Oh! provoke him not as at <hi>Meribah!</hi> what doth <hi>Paul</hi> cry out againſt, and ſo <hi>David,</hi> and <hi>Moſes? Meribah, Meribah!</hi> this, this lyeth at the hearts of ſuch, the inſeparable, the inſuperable, invincible non-ſubjection of Iſrael to the wayes of God, this is not cureable with calamity.</p>
+                  <p>
+                     <hi>Inſtr.</hi> 4. Though <hi>Sions</hi> malady be ſuch, as that, lookt at in it ſelf, it cannot be cured, yet lookt at in Gods promiſe, and it cannot want a cure. Look upon it in it ſelf, and it ſeems incurable, look't at in the Phyſician, and it cannot but be cured. <hi>Ieremiah</hi> looking at his ſufferings, he will ſpeak no more; but looking at Gods promiſe, and it is as fire in his bones, he cannot but ſpeak. 2 <hi>King.</hi> 8.10. there is a quaerie put to the Prophet, whether <hi>Benhadad ſhall live;</hi> the prophet anſwers, <hi>He may certainly recover, howbeit, the Lord hath ſhewed me, he ſhall ſurely dye; i. e.</hi> the diſeaſe was not ſuch but he might have recovered: ſo may I by alluſion invert and ſay, <hi>Sions</hi> diſeaſe is incurable, but yet ſhe ſhall certainly recover. Look at <hi>Sion</hi> in the glaſs of Providence, and ſhe is as a woman forſaken, and grieved in ſpirit, <hi>Iſai.</hi> 54.5, 6. <hi>&amp;</hi> 66.4. huſ<g ref="char:EOLhyphen"/>bandleſs, as to reproach; and yet at the ſame time <hi>thy Maker is thy husband:</hi> if we look at <hi>Sion</hi> in the glaſs of the Promiſe, this Out<g ref="char:EOLhyphen"/>caſt is both <hi>Marah,</hi> and <hi>Hephzibah,</hi> both a <hi>Widow,</hi> and <hi>Beulah.</hi> Look at the Out-caſts tears, as an effect of mans not caring for her, but as an occaſion, and demonſtration of Gods care for her, <hi>Pſal.</hi> 126.5, 6. that <hi>Sion</hi> ſheddeth tears, denominateth her <hi>Marah;</hi> that <hi>Sions</hi> tears are ſeed, denominateth her <hi>Hephzibah. Pſal.</hi> 56 8. that tears fall from <hi>Davids</hi> cheeks, this is matter of ſorrow; that <hi>Davids</hi> tears fall into Gods bottle, is matter of joy.</p>
+                  <p>
+                     <hi>Inſtr.</hi> 5. Gods touching an impenitent Out-caſt with repen<g ref="char:EOLhyphen"/>tance, is a ſignal of Gods having mercy thereon. <hi>Sions</hi> recovery by repentance from her backſliding, is an effect of grace, and a fore-runner of the ſet time of <hi>Stons</hi> mercy, <hi>Sions</hi> impenitency, is
+<pb n="7" facs="tcp:108144:7" rendition="simple:additions"/>the life and ſtrength of <hi>Sions</hi> (of the Out-caſts) calamity. Re<g ref="char:EOLhyphen"/>pentance doth break the yoke of <hi>Babylon;</hi> Impenitency doth lay on the yoke of <hi>Babylon.</hi> You may truly ſay, the date of the Out<g ref="char:EOLhyphen"/>caſts captivity, and the date of their impenitency, is the ſame. The enemy is never harder-hearted to <hi>Sion,</hi> then when <hi>Sion</hi> is hard<g ref="char:EOLhyphen"/>hearted to her God. Their affliction was not the bardneſs of the Babylonians hearts, but, <hi>Lord, why haſt thou hardned our hearts? Iſai</hi> 63.17. when the Out-caſts return to <hi>Ston, they ſhall goe weep<g ref="char:EOLhyphen"/>ing with their faces thitherward, Ier.</hi> 50.4, 5.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 2. <hi>Exhortation.</hi> The text openeth my mouth to call upon Gods Outcaſts to accept of Gods plaiſter. God propoſeth to us Remedy, or Calamity: we have our option, whether that of the plaiſter, or of the ſore; make we our choice. If we accept the plaiſter, the time of mercy, even the ſet time is come; if you do not accept it, you may look at it as the beginning of ſorrow. That we are Out-caſts, this doth ſpeak us ſick; but our not accept<g ref="char:EOLhyphen"/>ing the remedy, ſpeaks our ſickneſs incurable. To be Out-caſts, this argues that we are caſt off by men; but our not accepting the remedy, ſpeaketh us caſt off by God: the condition of an Out<g ref="char:EOLhyphen"/>caſt ſuppoſeth us ſinners; but the rejection of the remedy doth ſay that we are caſtawayes: for an Out-caſt to need a medicine, is common to good and bad; to accept it, is proper to the good.</p>
+                  <p>Let us then accept the Lords Plaiſter. As an Ingredient there<g ref="char:EOLhyphen"/>to, I ſhall propoſe this Direction; <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. Learn we to judge aright of Liberty; Scripture-liberty. Gal. 5.1. <hi>Paul</hi> biddeth us <hi>ſtand faſt in our liberty:</hi> and thoſe ac<g ref="char:EOLhyphen"/>curſed ones he looks unto, Chap. 1. who alſo pleaded for liberty, and whom the Aſſertors of true Liberty ſhould accordingly pro<g ref="char:EOLhyphen"/>nounce accurſed. Bleſſed men plead for liberty, and curſed men plead for liberty. The Gnoſtick in 2 <hi>Pet.</hi> 2.19. doth plead for liberty: Good men plead for liberty, and bad men plead for li<g ref="char:EOLhyphen"/>berty: the beſt men plead for liberty, and the worſt men plead for liberty. If you ask what Liberty is? you may look at it as a Power, as to any external reſtraint, or obſtruction-on mans part, to walk in the Faith, Worſhip; Doctrine and Diſcipline of the Goſpel, according to the Order of the Goſpel. When you hear
+<pb n="8" facs="tcp:108144:8"/>men plead for Liberty, ſee that it be not Liberty falſly ſo called.</p>
+                  <p n="2">2. Acknowledge Order Divine, and in particular in that great Point of a Miniſterial Judge. There are that make little of Or<g ref="char:EOLhyphen"/>der, and yet we may think, not any made ſo little, as <hi>Paul</hi> made much of it: <hi>Let All things be done in Order,</hi> 1 Cor. 14.40. it ſeemeth an Apoſtolical ſpirit doth conclude, that ſometimes better ſuch a thing not done, then not orderly done. There is a judge<g ref="char:EOLhyphen"/>ment Diſcretive, which belongeth to every Believer; there is a judgement Authoritative, that belongs unto the Church, and is ſet therein by God; and alſo there is a judgement Deciſive, which belongs unto the Council: Onely remember, that the <hi>Supreme Judge</hi> is either 1. Authentick, <hi>i. e.</hi> Jeſus Chriſt: or 2. Regu<g ref="char:EOLhyphen"/>lative, <hi>i. e.</hi> the Scripture: or 3. Miniſterial, <hi>i. e.</hi> the Council. This Queſtion concerning a Miniſterial Judge in matters of Reli<g ref="char:EOLhyphen"/>gion, is that which hath greatly exerciſed the Chriſtian world; inſomuch that both Proteſtants and Papiſts agree, That the Reſo<g ref="char:EOLhyphen"/>lution of this Controverſie is of ſo great moment, as that here<g ref="char:EOLhyphen"/>upon depends the Reſolution of all Controverſies. When a Con<g ref="char:EOLhyphen"/>troverſie ariſeth in a Church (differences muſt not alwayes con<g ref="char:EOLhyphen"/>tinue) what ſhall reſolve the ſame, if a Miniſterial Judge be not ad<g ref="char:EOLhyphen"/>mitted? Take away this Order, and how ſhall Peace, or the So<g ref="char:EOLhyphen"/>ciety continue? This truth of a Miniſterial Judge, is reckoned a<g ref="char:EOLhyphen"/>mong the Fundamentals — <hi>Secundarily,</hi> becauſe it doth tend to the <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> finde preſervation of all that elſe is of the Foundation. You ſhall finde this Truth impleaded throughout all generations, ſince the Primi<g ref="char:EOLhyphen"/>tive times, and pleaded for by all the Orthodox in all the Centu<g ref="char:EOLhyphen"/>ries. Deut. 17.12. <hi>Standum ſententiae ſummi judicis:</hi> Iſrael muſt ſtand to this; if it be in matters of Religion, there is the Prieſt; if in matters Civil, there is the Magiſtrate, and he that ſtands not, or ſubmits not to the Sentence of theſe, <hi>let him be cut off from Iſrael:</hi> ſo requiſite a thing is Order. <hi>Acts</hi> 15. there is no reſt in ſuch a caſe; what now do they, but refer it to a Council, and that doth determine it. 1 Cor. 14.32. <hi>The Spirit of the Prophets is ſubject to the Prophets.</hi> I will not acknowledge him a Prophet, that is not ſubject to the Prophets. Let not any one therefore under pretence
+<pb n="9" facs="tcp:108144:8"/>of a Prophet, or whatever Inſpiration or Perſwaſion ſoever, ex<g ref="char:EOLhyphen"/>empt themſelves from ſubjection to Order.</p>
+                  <p>Obj. <hi>The major part may erre, and is not alwayes the melior part: Councils and Churches may erre, and have erred.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. But is it not true, that the Objector may erre? The <hi>major</hi> part may erre; ſo ſaith the Delinquent ſtanding before the Church, and muſt that evacuate all Church-power? 2. 'Tis more likely that truth ſhould be with many Orthodox, Pious, Orderly, <hi>&amp;c. In the multitude of Counſellors</hi> (was anciently ſaid, <hi>Prov.</hi> 11.14.) <hi>there is ſafety.</hi> The Objector is one to many, and he is in his own caſe a Judge, but a Council in other mens. But if that be not a truth, that <hi>[We muſt ſubject to Order]</hi> becauſe the <hi>major</hi> part may erre, then put an end to Church-adminiſtrations, there will be no end of Controverſies. But diſtinguiſh we con<g ref="char:EOLhyphen"/>cerning Councils. There is a Council Regular, of Orthodox and meet Members orderly gathered: There is a Council that is Ir<g ref="char:EOLhyphen"/>regular, and abuſive, as in times of Popery. When the Ark was taken by the Philiſtims, no marvel it was not Oraculous to Iſrael; but what Iſraelite refuſed to conſult the Ark of God after its re<g ref="char:EOLhyphen"/>turn from the Philiſtims, becauſe they had abuſed it? You tell us, that Popiſh Councils have erred; and therefore muſt we forget that the Councils of the Orthodox have maintained the Truth, and have been the ſupport of Religion in former times? Look to the <hi>Nicene,</hi> and other Councils. Councils have been ſometimes among the Philiſtims, among the Papiſts, and for ſo long a time; but ſhall we eſteem the leſs of Orthodox Councils becauſe of that? 3. Diſtinguiſh between the Truth of Order, and Truth Poſitive. <hi>John</hi> 8.17. <hi>The teſtimony of two men is true:</hi> this is what God hath appointed for the Preſervation of Society Humane and Chriſtian. That is a truth <hi>in foro,</hi> viz. in Church or Court, which may not be the truth poſitive. The God of Truth hath made it for to keep Societies in peace; and if it were not for this Inſtitution, there could be no ſitting in Judgement, or any Polity a<g ref="char:EOLhyphen"/>mong men. 4. Remember that <hi>the Spirits of the Prophets are ſubject to the Prophets,</hi> 1 Cor. 14.32. the Spirits of the Elders are ſubject to the Elders, &amp;c. If this be not attended, there can be
+<pb n="10" facs="tcp:108144:9" rendition="simple:additions"/>no Adminiſtration, or elſe there muſt needs be a meer rixation and chiding-adminiſtration. Where there is liberty and the Old man, there muſt needs be much Controverſie; 'twere more ſad if there were no Remedy. The non-admiſſion of this help renders the Churches, in caſe of Non-action, like the field of the ſleeping Husbandman, <hi>Matth.</hi> 13.25. or elſe like the Meeting of Iſrael at <hi>Meribah;</hi> either no Adminiſtrations, or manifold Alterations. 'Tis true, a Ship may live longer in a Calm, then in a Storm, but yet your Ship may be ſo long becalmed, that all the Proviſion may be ſpent, and ſo periſh in time; and it may be better periſh<g ref="char:EOLhyphen"/>ing in a Storm, then in a Calm: a Storm is ſwifter to periſhing, but both deſtructive. Either this Diſeaſe or that is mortal; the difference may be, that the one is. Chronical, the other Acute: both are killing. No (you will ſay) if ſuch men be there that have a ſpirit of Meekneſs and Patience: Yea, but reade <hi>Exod.</hi> 12.3. and <hi>Pſal.</hi> 106.33. <hi>Moſes</hi> the meekeſt man then on earth, yet it went ill with <hi>Moſes</hi> ('tis ſaid) for their ſakes. How long did <hi>Moſes</hi> live at <hi>Meribah?</hi> ſure I am it killed him in a ſhort time, a man of as good a temper, as could be expected from a meer man: I tell you, it will not onely kill the People, but it will quickly kill <hi>Moſes.</hi> Take heed of <hi>Meribah,</hi> and accept of the Remedy againſt your Diſeaſe. Obj. <hi>May not a good man ſuffer by this means? Anſw.</hi> Sometimes we are called to ſuffer; and ſubjection to Order may be accompanied with ſuf<g ref="char:EOLhyphen"/>fering for the Truth: and better an innocent and good man ſuffer, then Order, for that preſerves the whole.</p>
+                  <p n="3">3. Sanctifie God in his Providential Teſtimonies againſt a<g ref="char:EOLhyphen"/>buſe of Liberty. Minde <hi>Solomons</hi> caſe before-mentioned: Have we not many Adverſaries? Are we not Out-caſts? Are we as much in the hearts of others, as formerly? Are there not thoſe who labour to bereave us of our Liberties? Let us Sanctifie the Name of God herein.</p>
+                  <p n="4">4. Attend we the Examples of the godly wiſe, for the con<g ref="char:EOLhyphen"/>tinuing of our Liberty, in like caſes. You will ſay, What is that? I anſwer, An Addreſs to the Supreme Authority, and a juſt Apologie. If any ſay, What Example in Scripture have we
+<pb n="11" facs="tcp:108144:9"/>for an Addreſs? Let ſuch look to 2 <hi>Kings</hi> 4.13. <hi>Wouldſt thou be spoken for to the King?</hi> This did not unbecome the Prophet to propound to her. Remember <hi>Ezra</hi> 7.6. <hi>&amp;</hi> 4.6, 13. <hi>Eſth.</hi> 4.8. <hi>Nehem.</hi> 2.4. did <hi>Nehemiah</hi> do the people wrong therein? <hi>My God</hi> (ſaith he) <hi>remember me for good in this.</hi> There was Accu<g ref="char:EOLhyphen"/>ſations written againſt them; <hi>Rehum</hi> and <hi>Shimſhai</hi> write, <hi>Tatnai</hi> and <hi>Shethar-boznai</hi> write againſt them, <hi>Sanballat</hi> writes: Shall there be thoſe that Petition againſt, and ſhall none Petition for Iſrael? <hi>Ezra</hi>'s and <hi>Nehemiah</hi>'s Petitioning, and promoting their Petitions to the King, were not interpreted as acts of dif<g ref="char:EOLhyphen"/>fidence unto God, or of irregular compliance, nor themſelves as men leſs friends to the Church and Civil Liberties, nor looked upon as unworthy to be continued in their Truſt and Eſteem a<g ref="char:EOLhyphen"/>mong the People. <hi>Mordecai</hi> counſels <hi>Eſther</hi> to go in unto the King, and ſpeak to him, though it was with the peril of her life. To make an Addreſs then is not that which is not according to Scripture. The like I might ſay relating to an Apologie.</p>
+                  <p n="5">5. Let us walk in the uſe of our Liberty with innocency, and without offence. To differ from our Orthodox, Pious, and Learned Brethren, is ſuch an affliction to a Chriſtian and inge<g ref="char:EOLhyphen"/>nuous Spirit, as nothing but love to the Truth could arm a man of peace againſt: Our Profeſſion being in a way differing from theſe and thoſe, it doth the more concern us that our walking be very cautelous, and that it be without giving any juſt offence. There will offence enough be taken at the Profeſſion of the Truth, though the Profeſſors thereof give none. The Profeſſion of the Truth draweth upon us enmity, but errour in our Profeſſion, and offenſive walking, delivereth and betrayeth us into the hand of the enemy. And give me leave to ſpeak freely, Let us ſee that we walk without offence toward Civil Authority: Suffer not your mindes to be prejudiced againſt the preſent, and ancient Govern<g ref="char:EOLhyphen"/>ment of our Nation: Iſa. 49.23. <hi>Kings ſhall be thy Nurſing-fathers, and Queens thy Nurſing-mothers:</hi> 'tis ſpoken of Goſpel-times. It is not a Goſpel-ſpirit to be againſt Kings: 'tis neither Goſpel nor Engliſh Spirit for any of us to be againſt the Go<g ref="char:EOLhyphen"/>vernment by King, Lords and Commons. It was the uſual ſtra<g ref="char:EOLhyphen"/>tagem
+<pb n="12" facs="tcp:108144:10"/>anciently of the Adverſary, to calumniate the Chriſtians as diſaffected to the State, and ſuch as were for Reformation, as Enemies to <hi>Caeſar.</hi> But <hi>Juell</hi> could teſtifie in his time, <hi>Gratias agimus Deo, &amp;c.</hi> (in <hi>Apolog. pag.</hi> 16.) <hi>That there could be no inſtance given, wherein they in that ſtate of Reformation had offered any vio<g ref="char:EOLhyphen"/>lence to Princes, &amp;c.</hi> So ſaid that famous Apologiſt. God make us more wiſe and religious then ſo to carry it, that they ſhould no ſooner ſee a Congregational-man, then to have cauſe to ſay, <hi>They ſee an Enemy to the Crown.</hi> Prov. 24.21. <hi>My ſon, fear thou the Lord, and the King, and meddle not with them that are given to change.</hi> Eccleſ. 10.20. <hi>Curſe not the King, no not in thy thought.</hi> Dan. 6.22. <hi>Innocency was found in me,</hi> (ſaith <hi>Daniel</hi>) <hi>and alſo be<g ref="char:EOLhyphen"/>fore thee, O King, have I done no hurt. Is this thy voice, my ſon David?</hi> 1 Sam. 26.17. really ſo, not hypocritically? We have ſevere Obſervers; Tongues are not untaught to inform againſt us. It is but wiſdome to give no cauſe, eſpecially ſuch as our own Conſciences cannot teſtifie for, and ſuch as all Orthodox Churches in the Proteſtant world will teſtifie againſt. In matters of the State-Civil, and of the Church, let it be ſhewn that we are his Diſciples, who (<hi>Matth.</hi> 22.21.) ſaid, <hi>Give unto Ceſar the things that are Ceſars, and unto God the things that are Gods:</hi> and in mat<g ref="char:EOLhyphen"/>ters of Religion, let it be known that we are for Reformation, and not for Separation.</p>
+                  <p n="6">6. Laſtly, Take care thar the Order of the Goſpel may have a free paſſage in the Churches; I mean, that our Practice may effectually anſwer our Doctrine, in that Book entituled <hi>[The Platform of Church-Diſcipline]</hi> 'Tis that for which we are Out<g ref="char:EOLhyphen"/>caſts at this day; that (for the ſubſtance of it) is it that ſheweth what <hi>New-England</hi> is. I would I might ſay that there are none among our ſelves that are againſt it. There was a time when the General Court did approve of it, and when the Members of that Synod pleaded for it. Our reality herein will be, in no ſmall de<g ref="char:EOLhyphen"/>gree, critical of our Integrity in this Undertaking; and our Actions muſt be the demonſtrations of our Sincerity: This is a principal Ingredient of this healing Plaiſter, and for the defect-hereof are ſuch frequent and ſcandalous Breaches in our Churches;
+<pb n="13" facs="tcp:108144:10"/>ſo many Adminiſtrations in vain, and ſuch ſad Non-adminiſtration, and <hi>Remora</hi>'s, occaſioning that ſad Quaerie of Spectators, <hi>Whe<g ref="char:EOLhyphen"/>ther the Congregational-way be practicable, yea or not?</hi> I beſeech you conſider whom it is that it doth concern to anſwer this Ob<g ref="char:EOLhyphen"/>jection; you that are conſcientious do not forget it, at whom the ſtick lyes in one order or another. If we cannot build without the noiſe of Hammers, yield that we are not Temple-workmen: yield we muſt, either that the Congregational-way is not the way of God, or that We are unfit for the behaviour of the Houſe of God. As concerning the Church-government according to the <hi>Platform of Diſcipline,</hi> the practice of which doctrine who careth for? is not this that truth which the Synod, Churches, the General Court ſometime made a good Confeſſion of, and that now no man comparatively careth for? <hi>Ezra</hi> 4.8. <hi>Rehum</hi> cares not for it: <hi>ver.</hi> 23. <hi>Artaxerxes</hi> careth not for it: <hi>Nehem.</hi> 4. <hi>Sanballat,</hi> and <hi>Tobiah</hi> care not for it: the <hi>Epiſcopal</hi> man, the <hi>Presbyterian</hi> care not for it, the <hi>Morellian</hi> careth not for it: the <hi>Merchant,</hi> the <hi>Souldier,</hi> the <hi>Husbandman,</hi> the <hi>Labourer</hi> careth not for it. <hi>Haggai</hi> 1. <hi>The people of Jeruſalem,</hi> the Church-members care not for it. I am apt ſometimes to think that <hi>Aaron</hi> may be under a temptation of irregular complyance; but minde, <hi>Ier.</hi> 15.19. <hi>Let them return unto thee, but return not thou unto them:</hi> I may ſay thus much (and pardon my ſpeech) <hi>A more yeilding Miniſtry unto the People, I believe is not in the World.</hi> I beſeech you let not <hi>Ceſar</hi> be killed in the Senate, after he hath fought it out, and conquered in the Field: let us acknowledge the Order of the Elderſhip in our Churches in their way, and the Order of Coun<g ref="char:EOLhyphen"/>cils in their way, duely back'd and encouraged; without which, Experience will witneſs that theſe Churches cannot long conſiſt.</p>
+                  <p>God hath opened the mouth of the Speaker to you this day, it being a day wherein after ſo many attempts and feares, you are betruſted with your Liberties for another year. You have this years oportunity, and at ſuch a time, and bleſſed be the Lord God of our Fathers, who hath put ſuch a thing in the Kings heart, ſo farre to accept your Application to his Majeſty, as not onely to
+<pb n="14" facs="tcp:108144:11"/>give you the oportunity of the year preſent, but alſo encourage<g ref="char:EOLhyphen"/>ment for many years to come. Let all of us be ſtirred up by the Lord, and at ſuch a time, to ſtrengthen the hand of <hi>Zerubbabel,</hi> and <hi>Jehoſhua,</hi> by your profeſſed ſubjection to the Goſpel of Chriſt. Do not betray liberty, under the pretence of liberty. You that are in the honoured Magiſtracy, remember <hi>Davids</hi> troubles, <hi>Pſal.</hi> 132.1, 5. he could not reſt till the Ark had reſt. And thoſe that are in the Miniſtry, remember <hi>Paul's</hi> troubles, and what his cares were, 1 <hi>Cor.</hi> 11.28. Let us all minde what were the troubles and thoughts of heart that were in them that lived in the dayes of <hi>Malachi,</hi> Chap 3.16. But are there not many that minde onely their cieled houſes, &amp;c? and how much doth the work of the Out-caſt lye unattempted, witneſs the ſick eſtate of the Churches: and how can it be remedied, if we will not acknowledge Order? and ſhall I ſay that we are real therein? You have brought upon your ſelves real troubles, and likewiſe upon your Relations and Friends in <hi>England,</hi> and thoſe here that ſuffer with you in this Exile: See then that you be not hypocritical, but real to the Truth which you have profeſſed. I could tell you, and you muſt not forget it, That there have been <hi>Men of Renown,</hi> as they are called <hi>Numb.</hi> 16.2. <hi>Famous in the Congregation of Iſrael,</hi> that did go out of <hi>Egypt,</hi> but yet could not endure the Order of God in the Wilderneſs. Let us ſhew it, that we miſtook not our ſelves, pretending to come into this Wilderneſs to live under the Order of the Goſpel. We are Out-caſts indeed, and reproached; but let us be ſuch Out-caſts as are caring for the Truth, and therefore not to neglect an Apologie: it doth become, and greatly concern Gods Out-caſts to minde it. You know there are thoſe who repreſent you as diſaffected to Government, and as Sectaries, and Schiſma<g ref="char:EOLhyphen"/>ticks, and as Fanaticks: you ſee cauſe to Apologize therein. And for that term of <hi>[Fanatick]</hi> you muſt remember it is not of yeſterday, however it be now uſed or abuſed. You may learn the original uſe of it from that diſtribution of Profeſſors, in relation to Church government, in former times, into four ſorts, <hi>viz. Orthodoxt, Pontificii, Rationales,</hi> and <hi>Fanatici.</hi> But I truſt that God doth, and Angels and Men ſhall know that we are Orthodox.
+<pb n="15" facs="tcp:108144:11"/>Gods Out-caſts are not Fanaticks. The Woman in the wilder<g ref="char:EOLhyphen"/>neſs may have the vomit of the Dragon caſt in her face, if you let it lye on, you will ſuffer; waſh it off therefore by an Apo<g ref="char:EOLhyphen"/>logie. Thus did <hi>Juſtin Martyr, Tertullian, Iuel,</hi> and others in their time. Give not the advantage of interpreting Silence as Conſent, nor think it labour loſt if an Apologie will waſh your face. And though we may be caſt out by men, yet may we hope that God will look after his Out-caſts, and care for us, being Out-caſts for the Truth. Let it appear that we are ſuch Out-caſts, to whom the calamity and temptations of Out-caſts are ſanctified; Out-caſts healed: Out-caſts that care for the truth, and then Out-caſts on which God will bring the bleſſing of his own people. If this plaiſter findeth acceptance with you, you ſhall finde eſteem, and acceptance, and favour from God and man. Let us all labour ſo to carry it, as that we may have this <hi>Rejoycing of a good Conſ<g ref="char:EOLhyphen"/>cience</hi> to ſweeten that bottle full of tears ſhed in your Out-caſt condition in this wilderneſs, <hi>viz.</hi> That we came into it, not onely with a Spirit teſtifying, according to the Scriptures, againſt the Inventions of men, but alſo that we do come up unto the Inſtitu<g ref="char:EOLhyphen"/>tions of Chriſt; that as we have departed from Inventions Hu<g ref="char:EOLhyphen"/>mane, ſo we may not be found to be, or here continue oppoſers againſt Inſtitutions Divine; that we are not negligent of, but faithful to that Order of the Goſpel which we are Out-caſts for.</p>
+                  <pb n="12" facs="tcp:108144:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:108144:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:108144:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:108144:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+               <div n="2" type="sermon">
+                  <pb n="16" facs="tcp:108144:14" rendition="simple:additions"/>
+                  <head>
+                     <hi>THE BELIEVERS CONSOLATION,</hi> In the Remembrance of his Heavenly Manſion prepared for him by CHRIST.</head>
+                  <head type="sub">BEING THE SECOND SERMON: AND Preached on the LORDS-DAY, <hi>MARCH</hi> XXIX. 1663.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>John 14.3.</hi>
+                        </bibl>
+                        <p>And if I go to prepare a place for you, I will come again, and receive you to my ſelf, that where I am, there you may be alſo.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">T</seg>His Verſe, and the former, holds forth a double Con<g ref="char:EOLhyphen"/>ſolation, to ſupport the Diſciples againſt the ſuffering which they were to conflict with, either <hi>In the way of Truth,</hi> or <hi>For the way of Truth.</hi> This Verſe holds forth the ſecond Argument of Conſolation; the former you have in the ſecond Verſe: it is taken from the <hi>Place</hi> they were to be taken to after Death. And this Argument in this Verſe is taken from the <hi>Company</hi> they ſhall have in that place; and that is his Perſonal Preſence, his full and clear Preſence: <hi>Where I am, there you ſhall be alſo.</hi>
+                  </p>
+                  <p>Now this Argument of Conſolation is deſcribed, 1. From the <hi>Scope</hi> of Chriſt in preparing ſuch a place for them; and it was, that he and they might be there together: <hi>I go to prepare a
+<pb n="17" facs="tcp:108144:14"/>place for you, that where I am, there you may be alſo.</hi> 2. It is de<g ref="char:EOLhyphen"/>clared from the <hi>Time</hi> when they muſt expect their being taken to Chriſt; and that is, when he comes again: <hi>I will come again, and receive you to my ſelf.</hi> 3. It is declared from the <hi>Efficient</hi> of it, the Undertaker of this; and that is Himſelf: <hi>I will come again, and receive you to my ſelf.</hi>
+                  </p>
+                  <p>To open the words thus reſolved.</p>
+                  <list>
+                     <item>1. Touching the Preſence of Chriſt and Believers together <hi>[That where I am, there you may be alſo]</hi> you muſt underſtand this (of his Preſence emphatically ſo called) of his Preſence in the place of Bleſſedneſs: <hi>In thy Preſence is fulneſs of joy,</hi> Pſal. 16.11. There is a double Preſence of Chriſt, but he means here his Preſence in Glory, where <hi>we ſhall ſee him as he is,</hi> 1 Joh. 3.2. I ſaid, this Argument of their Conſolation was declared from the <hi>Scope</hi> of it; <hi>I go to prepare a place for you, that where I am, there you may be alſo:</hi> it was one great end of his being a Fore-runner. Secondly, he ſhould fail of his Fidelity and Ability, if there ſhould be a diſappointment.</item>
+                     <item>2. From the <hi>Time [When I come again]</hi> Chriſts coming is either his laſt Coming or his coming by Death. Of his laſt coming you reade 1 <hi>Theſſ.</hi> 4.18. Of his coming by Death, you reade <hi>Luke</hi> 23.43. <hi>To day thou ſhalt be with me in Paradice.</hi> Now the Soul goes to Chriſt, when He comes to us by Death: at his laſt coming both Soul and Body ſhall be together with him.</item>
+                     <item>3. This Argument of Conſolation is deſcribed by the <hi>Efficient</hi> of it, or Undertaker, <hi>[I will receive you to my ſelf]</hi> We may doubt how our Souls, when we dye, ſhall come to Heaven: why, ſaith Chriſt, <hi>I will come, and receive you to my ſelf.</hi> They therefore ſay properly, when they dye, that ſay, <hi>Into thy hands I commend my Spirit,</hi> Pſal. 31.5. it is a proper ſaying ſo to ſpeaks, <hi>Acts</hi> 7.59. <hi>Lord Jeſus receive my Spirit.</hi> It is a bleſſed thing to commit our Souls by Faith to Chriſt, when they go out of the Body. He comes by the miniſtry of his Angels, or otherwiſe as he pleaſe: <hi>I will come again, and receive you to my ſelf.</hi> You may remember the words of <hi>Steven,</hi> he dying, <hi>called upon God, and ſaid, Lord
+<pb n="18" facs="tcp:108144:15"/>Jeſus receive my Spirit:</hi> we receive Chriſt, and we receive the Spi<g ref="char:EOLhyphen"/>rit of Chriſt; <hi>Now to as many as received him, to them gave he power, &amp;c.</hi> Joh. 1.12. Chriſt receives our Spirits (then:) If we receive his Spirit now, he will receive our Spirits then; <hi>I will receive you to my ſelf.</hi>
+                     </item>
+                  </list>
+                  <p>Doct. <hi>That the effectual Remembrance, that at Death Chriſt will receive our Souls unto Himſelf, is a Soveraign Preſervative to quiet our Souls throughout all the Sufferings we meet with, either</hi> In <hi>the way of Truth, and</hi> For <hi>the way of Truth, during this life.</hi>
+                  </p>
+                  <p>You ſhall finde in <hi>Iob</hi> 19.25. ſaith he, <hi>I know that my Re<g ref="char:EOLhyphen"/>deemer liveth:</hi> He might ſay, I know my Eſtate is gone, and I ſee that my Friends are gone, and my Children be gone, and my Health and Strength is gone, and the Grave is ready for me; but what ſtayes <hi>Iobs</hi> heart now? <hi>I know that my Redeemer lives.</hi> This is a living truth for a dying man; <hi>I know that my Redeemer lives, and that he ſhall ſtand in the latter day upon the earth, and I ſhall ſee him, &amp;c.</hi> This was now <hi>In the way of Truth,</hi> for you cannot ſay that <hi>Iob</hi> was perſecuted <hi>For the way of Truth.</hi> But you ſhall finde in a way of ſuffering for the way of Truth, <hi>Phil.</hi> 1.23. <hi>I deſire to be diſſolved, and to be with Chriſt:</hi> Having paſſed through many troubles, I would be out of the body, and freed from the body of death; <hi>I deſire to depart, and to be with Chriſt.</hi> 2 Cor. 5.8. <hi>We are confident, and willing rather to be abſent from the body, and preſent with the Lord.</hi> You muſt either be abſent from the body, or abſent from the Lord; it is an hard thing to be abſent from the body, but not comparatively: <hi>We deſire rather to be ab<g ref="char:EOLhyphen"/>ſent from the body, and preſent with the Lord: We ſhall meet the Lord, and ſhall ever be with the Lord.</hi> What is the uſe of this, 1 <hi>Theſſ.</hi> 4 18. <hi>Comfort one another with theſe words?</hi> what are theſe Comforts? They are nothing but Promiſes; Promiſes rightly applied, theſe are the Comforts of the holy Ghoſt: they hold forth more good, then the affliction doth evil. If you would comfort one another, bring out the Promiſe, that is comfortable and ſeaſonable. <hi>Comfort
+<pb n="19" facs="tcp:108144:15"/>one another:</hi> with what? <hi>with theſe words;</hi> for in them the Com<g ref="char:EOLhyphen"/>forter doth come and apply comfort.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 1. Becauſe hereby we are made fit for this reſt, fit to be with Chriſt; that is, by our trouble, &amp; by this remembrance. Mixing this remembrance with our trouble, doth fit us for this place. 2 <hi>Cor.</hi> 5.5. <hi>He that worketh us to the ſelf-ſame thing, is God:</hi> For what thing? for our heavenly houſe, our <hi>houſe not made with hands:</hi> he that fits us for theſe things, is God. And thus doth he fit us by trouble, by theſe matters of groaning that do paſs over us from day to day. This ſhould be a great incouragement; <hi>There is a place prepared for you,</hi> but remember you muſt be fit for your place: you are not fit for your place, in that you are meerly Regenerate, but you muſt paſs through ſuch a meaſure of Obedience both active and paſſive that is appointed for you, that by this means <hi>you may be meet for the inheritance of the Saints in light.</hi> The place is fit for us already, but we are not fit for it as ſoon as we are Regenerate: 2 <hi>Cor.</hi> 5. he doth there inſtance in the troubles of the body, the grief of the outward man: we are burthened with our body, but all this while a fitting for our place. If you belong to God, he is working you <hi>to the ſelf-ſame thing;</hi> be your trouble this or that (the Cholick, Palſie, Stone, or whatever) he is working us <hi>for the ſelf-ſame thing:</hi> This is a great matter in our troubles, to conſider that God by them is fitting us for our place in Heaven.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 2. From the Quality of the Undertaker, that hath un<g ref="char:EOLhyphen"/>dertaken the reception of our Souls to himſelf; <hi>I will come, and receive you to my ſelf.</hi> If it be ſo, let us <hi>that ſuffer according to the will of God</hi> (1 Pet. 4.19.) <hi>commit the keeping of our Souls to him:</hi> you may boldly do it, he ſends a fiery Chariot for <hi>Elijah;</hi> likely it was an Angel, <hi>He makes his Angels spirits, his Miniſters a flame of fire,</hi> Heb. 1.7. Chriſt hath his way to carry your Souls to Hea<g ref="char:EOLhyphen"/>ven: you do not believe what a condition your Souls will be in, as ſoon as ever they are out of the body: do but think what a meet<g ref="char:EOLhyphen"/>ing here is; but we believe not theſe things. As Chriſt, when he ſent to his Diſciples to comfort them, (<hi>Luke</hi> 24.11.) they thought they were <hi>tale tales:</hi> ſo when we hear of theſe things; we look at them but as <hi>idle tale;</hi> but, ſaith Chriſt, <hi>I will come, and receive you to my ſelf.</hi>
+                  </p>
+                  <pb n="18" facs="tcp:108144:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:108144:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:108144:17"/>
+                  <p>
+                     <hi>Reaſ.</hi> 3. Taken from the Perſon we ſhall be with, namely, Chriſt. Phil. 1.23. <hi>You ſhall be with Chriſt, which is beſt of all,</hi> or <hi>which is farre better:</hi> There is no better Houſe then this Manſion, there is no better Preſence then his Preſence; therefore well might he ſay, <hi>It is beſt of all,</hi> or <hi>farre better.</hi>
+                  </p>
+                  <p>
+                     <hi>Inſtruction</hi> 1. Learn from hence, that the moſt and the greateſt Communion that we have with Chriſt in this life, ſtill leaves us in a condition of abſence from Chriſt, compared with that Commu<g ref="char:EOLhyphen"/>nion we ſhall have with him after death: So faith the Apoſtle, 2 Cor. 5.8. <hi>We are willing to be abſent from the body, and preſent with the Lord;</hi> ver. 6. <hi>for while we are at home in the body, we are abſent from the Lord:</hi> It is a place of abſence from the Lord, that is, compared with what we ſhall have after death. If you think of <hi>Paul,</hi> Who did enjoy Chriſt more then <hi>Paul</hi> did? Did not <hi>Paul</hi> enjoy Church-communion? Yes; but notwithſtanding this was a place of <hi>abſence from the Lord,</hi> compared with the ſociety that by death he ſhould be in. Was not <hi>Paul</hi> acquainted with any godly men? you know what he ſaith of <hi>Timothy;</hi> but yet (ſaith he) <hi>I am abſent from mine own people.</hi> The word that is here tranſlated <hi>[Abſent]</hi> ſignifies <hi>Abſence from his own people:</hi> he loved <hi>Timothy</hi> well, but he thinks <hi>the Spirits of juſt men made per<g ref="char:EOLhyphen"/>fect,</hi> exceed the Spirit of <hi>Timothy:</hi> Here is no Companion that is like the Company there; here is no Communion will ſatisfie here. Where moſt of Chriſt is, it is beſt, but yet it is <hi>abſence</hi> compara<g ref="char:EOLhyphen"/>tively; <hi>We are abſent from the Lord.</hi>
+                  </p>
+                  <p>
+                     <hi>Inſtr.</hi> 2. The New man (the Believer) is never at reſt till he is with Chriſt in his Manſion-houſe. If you never finde any ſuch thing in you, but that, if you might have your deſire, you would be here alwayes, believe it you have not this New man in you: this New man never is at reſt, till it comes to Chriſt. It is true, there is weakneſs in the beſt, and unbelief-may prevail too-too much, but I ſpeak of this new Nature that is in theſe, and reigns in theſe that are Regenerate. You know how it is with thoſe that love one another: after that <hi>Jacob</hi> knew what was become of <hi>Joſeph,</hi> there was no ſtaying of <hi>Jacob; Let me go and ſee him before I dye,</hi> Gen. 45.28. What was the reaſon of it? there was
+<pb n="21" facs="tcp:108144:17"/>an intire love one unto another. You know how it is with thoſe that do indeed love one another, that have been long abſent one from another, they cannot reſt until they meet: Was there any did ever love another, as the New man loves Chriſt? The New man loves him with a divine love, <hi>the coals thereof are coals of fire, which hath a moſt vehement flame,</hi> Cant. 8.6. There are ſome on earth that do long after Chriſt; there are thoſe on earth that do deſire after Heaven: and do any love another, as Jeſus Chriſt loves the New man? There muſt be a meeting between theſe two Lovers; <hi>I will come, and receive you to my ſelf.</hi> Mark how <hi>John</hi> concludes the <hi>Revelations,</hi> Chap. 22. ver. 21. <hi>Behold I come,</hi> ſaith Chriſt: <hi>He that-teſtifieth of theſe things, ſaith, I come; Amen, even ſo come Lord Ieſus.</hi> Here is a longing to be with Chriſt. In any of your quaeries concerning Chriſt, you are never at reſt rill you come to Heaven: it is the proper Being of the Sun to be in motion; this New man is a divine man, and his motion is ſtill unto, and after Chriſt.</p>
+                  <p>
+                     <hi>Inſtruction</hi> 3. The death of the Believer, it is a reception of the Soul by Chriſt Jeſus. Chriſt receiving of our Soules at Death, is an incouragement to ſtrengthen us againſt the fear of Death. Are you affraid of going to your Manſion houſe? are you affraid of going to Chriſt? Mark what the Apoſtle ſaith, <hi>Phil.</hi> 1.23. <hi>I deſire to depart, and to be with Chriſt.</hi> The Greek word is a Marriners Phraſe, and ſignifies as much as to ſet ſayle from the ſhore: I deſire my time were come to be looſed; that I might go to my Manſion. There are three Cords or Bonds that do Intangle us, the looſing from which doth ſweeten Death to us: 1. The Bond of the Croſs; I deſire to be diſſolved, and looſed from the afflictions and miſeries of this preſent life: This is in it's place a lawful thing to deſire in Gods time. 2. There is a Bond of Corruption, the body of Death; this I deſire to be looſed from: <hi>O wretched man that I am, who ſhall deliver me from the body of this Death! Rom.</hi> 7.24. There are pangs in the Beſt; But if you have the new man in you, you cannot bear them: There is Vain-glory there, and there is Impatience there, and there is Envy there, and Unſpiritualneſs, which the Believer cannot
+<pb n="22" facs="tcp:108144:18"/>bear; I deſire therefore to be looſed from the Body. It is ſaid of one,<note n="*" place="margin">Mezentius.</note> that he would bind a dead Corpſe to a living man, and ſo he would torture them. This new man is boudn to a dead Corps: there is no part of the Underſtanding, Will, or Affections, throughout the whole man, but this dead Corpſe is there. 3. There is the Cord of our abſence from Chriſt: that he ex<g ref="char:EOLhyphen"/>preſſeth, as if it did in an eſpecial manner move with him to be <hi>with Coriſt, which is the beſt of all. Simeon</hi> ſpeaking of death, <hi>Lord, now letteſt thou thy Servant depart in peace, Luk.</hi> 2.29. as if he ſhould ſay, Give me my diſmiſſion (as we uſe to ſpeak, from one Church to another: ſo here) from a Society Militant, to a Society Triumphant: So you ſee here he calls it but a diſmiſſion; <hi>it came to paſs when the time was come that he ſhould be received up, Luk.</hi> 9.51. relating to his death: if you did but think that this were the great buſineſs when you dye, namely, the receiving of your Soules, you would not be troubled: you cannot give up your Soules into better hands. <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> 5.24. you ſhall there finde it is called a paſſage from one Room to another, he is paſſed from death to life: it is like a paſſing from one room into another. Look at death as in the Curſe, and what more terrible? But look at it in the Promiſe, and it hath another kind of aſpect. 1 <hi>Cor.</hi> 15.43. you ſee there it is compared to ſowing; <hi>it is ſown in weakneſs, it is raiſed in power.</hi> This is now with relation to the body, it is but ſowing of it, it ſhall riſe again, and that with ad<g ref="char:EOLhyphen"/>vantage: you are not affraid of ſowing your ſeed, that will bring a glad harveſt. It is a going from thoſe that are not our own people to thoſe that are our own people, 2 <hi>Cor.</hi> 5.6, 8. it may be you have a friend here, but it is not an ordinary thing to meet with a <hi>Jonathan</hi> here. It is but a going from them who are not our people, whom we cannot ſo fully cloſe with; nay you cannot cloſe with your own ſouls fully, while here; but you are going from thoſe <hi>who are not your people,</hi> to thoſe <hi>who are your people,</hi> where you ſhall find perfect cloſing with this new man; you are come to <hi>the spirits of juſt men made perfect.</hi> Would you ſee what <hi>Peter</hi> ſaith concern<g ref="char:EOLhyphen"/>ing death, 2 <hi>Pet.</hi> 1.14. <hi>I muſt put off my tabernacle:</hi> it is a ſtrange <hi>Phraſe,</hi> he makes no more of it, then for <hi>Elijah</hi> to put off his
+<pb n="23" facs="tcp:108144:18"/>mantle. What a thing was it for <hi>Elijah</hi> to let his mantle fall, he gets him up into his Chariot and lets go his mantle: I ſpeak this, that you may ſee what expreſſions the Scripture gives concerning death: <hi>O let my laſt end be like his!</hi> I tell you it is a lovely thing, <hi>Let me dye the death of the Righteous, let my laſt end be like his:</hi> I tell you there is another good in their laſt end, that the unbeleiver is not aware of. It is but a going out of one place to another. I have done with this, when I have minded you of that place, 1 <hi>Theſ.</hi> 4.14. They ſleep, and they ſleep in Jeſus: <hi>They alſo that ſleep in Jeſus ſhall God bring with him:</hi> you ſee two bodies lye by the wall and they look both alike, but (believe it) they are not both alike in the Promiſe; if one be a Believer, and the other an Unbeliever, one is gone to this Manſion place, the other not.</p>
+                  <p>
+                     <hi>Inſtr.</hi> 4. The preſence of Jeſus is the place of bleſſedneſs: So ſaith Chriſt here, <hi>I will take you to my ſelf, and you ſhall be where I am.</hi> We ſhall ſee him, we ſhall be inlightned by him, we ſhall be ſatisfied in him, and bleſſed with him.</p>
+                  <list>
+                     <item>1. We ſhall ſee him: 1 <hi>Ioh.</hi> 3.2. <hi>We ſhall ſee him as he is.</hi>
+                     </item>
+                     <item>2. We ſhall ſee him, ſo as to be <hi>inligtned by him.</hi> Pſal. 36.9. <hi>In thy Light we ſhall ſee light:</hi> They are marvellous Lights, that are in the place of Bleſſedneſs.</item>
+                     <item>3. We ſhall be <hi>ſatisfied in him.</hi> Pſal. 17.15. <hi>As for me, when I awake I ſhall be ſatisfied with thy likeneſs.</hi> A ſatisfaction there will be at our Diſſolution, though more fully at the Reſur<g ref="char:EOLhyphen"/>rection.</item>
+                     <item>4. We ſhall be <hi>Bleſſed with him. Bleſſed are the pure in heart,</hi> (Mat. 5.8.) <hi>for they ſhall ſee God.</hi> Then you that hear me, look to your hearts, for it is not whether you are rich or poor; but, <hi>Bleſ<g ref="char:EOLhyphen"/>ſed are the pure in heart, for they ſhall ſee God.</hi> But what is it to ſee God? <hi>I ſhall ſee my Redeemer,</hi> ſaith <hi>Iob:</hi> and that is true, the eyes of our bodies may ſee the body of Chriſt; but <hi>you ſhall ſee God,</hi> you ſhall <hi>ſee him face to face,</hi> you ſhall <hi>ſee him as he it.</hi> I tell you the ſoul of man is never at reſt till it ſees God. Some ſhall never ſee God &amp; therfore never be at reſt; <hi>There is no peace, no reſt to the wicked,</hi> Iſa. 57.21. <hi>ſaith my God.</hi> But now the ſoul it reſts when it comes to <hi>ſee God:</hi>
+                        <pb n="24" facs="tcp:108144:19"/>He is ſuch an Object, as nothing without him will ſatisfie our Souls: may be they may be pleaſed, as children with a Rattle, for a while here, but not ſatisfied without him; therefore know it, theſe Souls of ours are more worth then we are apt to think of, prize them how you will.</item>
+                  </list>
+                  <p>Unto the <hi>ſeeing of God</hi> (to ſpeak plainly) there are three things that are required:
+<list>
+                        <item>1. There is required <hi>an Object.</hi>
+                        </item>
+                        <item>2. There is required <hi>the Purifying and Perfecting of the <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding.</hi>
+                        </item>
+                        <item>3. There is required <hi>the Light of Glory, which may enable the Soul to ſee that Object.</hi> Now</item>
+                     </list>
+                  </p>
+                  <list>
+                     <item>1. The Object is God, we ſhall ſee him: <hi>I ſhall ſee God,</hi> Job 19.26. not onely <hi>ſee his Redeemer,</hi> but <hi>I ſhall ſee God:</hi> what<g ref="char:EOLhyphen"/>ever might be the meaning of <hi>Iob,</hi> yet <hi>we ſhall ſee him as he is,</hi> 1 Job. 3.2. <hi>We ſhall ſee him face to face,</hi> 1 Cor. 13.12. It is true, we cannot ſee infinitely, our capacities cannot be made infinite; yet we may ſee him that is Infinite, we may ſee him apprehenſive<g ref="char:EOLhyphen"/>ly, though not comprehenſively; yet we ſhall ſee him ſo as to fill the Soul, though not ſee him ſo as to comprehend him, but we ſhall apprehend ſo much of him as we are capable.</item>
+                     <item>2. There is <hi>the Perfecting and Purifying of the <g ref="char:V">Ʋ</g>nderſtanding:</hi> that muſt be purified from all Ignorance, Sin, and Darkneſs, and Miſtake.</item>
+                     <item>3. There is <hi>the Light which God doth communicate of Glory:</hi> As we have here the Light of Grace, ſo there is the Light of Glory, which enables a Soul to ſee him according to the Viſion of Glory. But what do we ſee in the <hi>ſeeing of God?</hi> We ſee his <hi>Being,</hi> or <hi>Eſſence;</hi> as the Object is united to the Faculty rela<g ref="char:EOLhyphen"/>tively, not formally. We ſhall ſee the <hi>Attributes</hi> of God, they which are in Heaven, you ſhall ſee what they are making mention of, <hi>Rev.</hi> 4. Holineſs, Almightineſs, Eternity: You know not what <hi>Omnipotency</hi> is now, but then you ſhall know it more; you know not <hi>Perfect Holineſs</hi> now, but then you ſhall know it more: and we ſhall ſee the Trinity; <hi>He that hath ſeen me,</hi> (Iohn 14.9.) <hi>hath ſeen the Father:</hi> And we ſhall ſee <hi>Chriſt,</hi> that Perſon that is
+<pb n="25" facs="tcp:108144:19"/>God and Man. And for the <hi>Counſell of God,</hi> we ſhall ſee it: it ſhall be an open Book, ſo far as concerns our happineſs. Now when the Soul comes to this, you will have no further need of en<g ref="char:EOLhyphen"/>quiry, <hi>[What God is?]</hi> or <hi>[What Chriſt is?]</hi> you will never be ſatisfied till then, you will never love God perfectly till then, and you will never reſt in him here, as you will then: you ſhall come to underſtand that then <hi>[Bleſſed are the pure in heart, for they ſhall ſee God.]</hi>
+                     </item>
+                  </list>
+                  <p>
+                     <hi>Exhort.</hi> 1. It is abundantly to incourage every Chriſtian to conſtancy in the profeſſion of the truth, notwithſtanding all the ſuffering we may meet with, either <hi>in the way of truth,</hi> or <hi>for the way of truth.</hi> This is that which <hi>John</hi> makes uſe of, 1 <hi>Iohn</hi> 3.2. <hi>We ſhall ſee him as he is;</hi> and, <hi>He that hath this hope to ſee God, purifieth himſelf, even as he is pure, ver.</hi> 3. Do you ſay you have hope to ſee God? this is a very purifying meditation. Can you endure any impurity, and yet maintain this hope in you to ſee Chriſt? <hi>Acts</hi> 24.15, 16. mark there how it did work with him; <hi>And have hope towards God, which themſelves alſo allow:</hi> I have hope that I ſhall ſee God, and that there is ſuch a truth as the reſurrection; <hi>here<g ref="char:EOLhyphen"/>in do I exerciſe my ſelf, to have alwayes a Conſcience void of offence, both towards God and towards Man:</hi> they that are falſe to his truth, they ſhall not ſee him, that dye without Repentance of it: herein do I labour to keep alwayes a Conſcience clear both towards God and man, that this may not hinder me from a ſight of this Manſion: 2 <hi>Cor.</hi> 5.8, 9. ſpeaking to the ſame purpoſe, <hi>We deſire to be with the Lord: wherefore we labour, that whether preſent or abſent, we may be accepted of him.</hi> Thus you ſee what this meditation doth call for: this makes a man or woman of a labouring ſpirit, it calls for adherence to the truth: And more particularly, conſider then what it is to be a Chriſtian in earneſt, to be ſuch a Chriſtian as walks in that way, wherein they walk that have the Promiſe to go to Chriſt, when their Soules go out of the body; theſe are ſuch as the eleven were, not ſuch as <hi>Iudas</hi> was; he went the other way, he went <hi>to his own place.</hi> You muſt be ſuch Chriſtians as the Apoſtles were, that is, ſuch as do continue with Chriſt in the profeſſion of his truth, that you, may
+<pb n="26" facs="tcp:108144:20"/>be Conquerours in holding on in your Profeſſion.</p>
+                  <p n="2">2. Conſider what you muſt expect while you are in your way; you muſt expect ſuch troubles, as nothing will quiet you, but the exerciſe of Faith in Chirſt Jeſus. Your hearts they will be aſ<g ref="char:EOLhyphen"/>ſaulted, but <hi>let not your hearts be troubled:</hi> the Truth it will cauſe trouble to you, though you think of carrying of it never ſo in<g ref="char:EOLhyphen"/>offenſively, and amiably among men. Chriſt, by all his good carriage, could not reconcile thoſe that hated the truth: Hence thoſe that profeſs the truth, let them not think ſtrange if they meet with trouble. <hi>Then</hi> (Acts 9.31.) <hi>had the Churches reſt:</hi> Other places have reſt very frequently; but for the Churches, thoſe that profeſs the Truth to have reſt, is a ſpecial favour of God.</p>
+                  <p n="3">3. Your troubles here, while you carry it with a Chriſtian Spirit, they ſhall fit you for this bleſſed eſtate; as it is ſaid 2 <hi>Cor.</hi> 5.5. <hi>[He that worketh us to the ſelf-ſame thing.]</hi> You may think God means evil to you, when you meet with affliction and trouble; but, provided you are <hi>In the way of Truth,</hi> or be it <hi>For the way of Truth,</hi> that which God ayms at, is to fit you for your Manſion-place. Chriſt would fit us to be in the body, and he would fit us to go out of the body; <hi>He works us to the ſelf-ſame thing.</hi> If you have a ſtrong body, he would fit you for that bo<g ref="char:EOLhyphen"/>dy to walk with him in that body. Saith <hi>Caleb,</hi> Joſh. 14.11. <hi>I have as ſtrong a body, as in the day that Moſes ſent me.</hi> Now as it is a great matter to have ſuch a body, ſo it is a great matter to walk with God in ſuch a body: if you have an healthful body, he would ſit you to walk with him in that body, that <hi>you may know how to poſſeſs your veſſel in ſanctification and honour:</hi> not that your body ſhould be the ſlave of filthy luſts. Suppoſe you have a ſickly body, 2 Cor. 4.16. <hi>Our outward man decayes, but our inward man is renewed day by day:</hi> and he <hi>worketh us to the ſelf-ſame thing,</hi> by fitting us to go out of the body; <hi>Acts</hi> 20.24. <hi>that I may finiſh my courſe with joy, and the Miniſtry that I have received.</hi>
+                  </p>
+                  <p n="4">4. Concurre with God in this ſcope of his Providence to you; he is fitting of you to walk with God. If he fit you to go
+<pb facs="tcp:108144:20"/>
+                     <pb facs="tcp:108144:21"/>
+                     <pb n="27" facs="tcp:108144:21"/>out of the body, or to be in the body, cloſe with him, as the Patient cloſeth with the Phyſician; interpret the Changes that are upon you, of one nature or of another, interpret them as diſpenſations whereby God works to fit you to be with him in the body, or to go to him when you go out of the body. Let us work together with him; <hi>I did it to humble them, Deut.</hi> 8.16. then cloſe with him, and ſay, This is his end; and for that end joyn with him. You ſhall finde more trouble then reſt, while you are <hi>In the way,</hi> you ſhall finde more reſt then trouble, when you are at the <hi>end of your way.</hi> You that are lovers of truth, more then of the pleaſures of Sin, you ſhall finde more trouble then reſt while you are in the way; but when you are out of the body, you ſhall have full reſt without any trouble: you ſhall have Truth enough, and Peace enough. That which is hard to gain now, is Union in the Truth; but then you ſhall have Union enough, and Truth enough: you ſhall finde Chriſt making good that truth to you, that <hi>He will come, and receive you to himſelf.</hi> When <hi>Noah</hi> put forth his hand, and received the Dove into the Ark, it was a welcome eaſe: ſo will it be to your Souls when they have been wearied with ſo many troubles, and Chriſt Jeſus ſhall come, <hi>and receive you to himſelf,</hi> when your Souls go out of the body; for otherwiſe the Devil will be ready to receive them, and to carry them to Hell. Whither went <hi>Dives</hi> Soul when it went out of his body? you that are now in Pleaſures, whither went <hi>Dives</hi> Soul? it is not ſaid he was an Adulterer, or a Drunkard; but he was a man of Pleaſures, [<hi>In thy life time thou hadſt thy good things,</hi> Luke 16.25.] But what became of his Soul when it went out of the body? <hi>And being in Hell, he lift up his eyes in torments, &amp;c.</hi> ver. 23. <hi>Gen.</hi> 46. when <hi>Joſeph</hi> received <hi>Jacob,</hi> and his Brethren, after ſo long an abſence, judge what a contentment there was: <hi>Jacob</hi> fell upon <hi>Joſephs</hi> neck, and <hi>Joſeph</hi> fell upon <hi>Iacobs</hi> neck: but their embraces are not to be mentioned with the embraces of Chriſt and the Soul. <hi>Do good, that when you dye, the good you have done may receive you into everlaſting habitations. Your works ſhall follow you.</hi> It was the
+<pb n="28" facs="tcp:108144:22"/>ſpeech of one<note n="*" place="margin">Ambroſe.</note>, <hi>I have not ſo lived, as that I am aſhamed to live any longer; nor am I afraid to dye.</hi> Labour ſo to live, as you may be uſeful in the body, and ſo as you may not be aſhamed to go out of the body, but may ſay as <hi>Iohn</hi> did, who was an old man, and a Diſciple, <hi>I come quickly: Even ſo, come Lord Ieſus, come quickly.</hi>
+                  </p>
+               </div>
+               <div n="3" type="sermon">
+                  <pb n="29" facs="tcp:108144:22" rendition="simple:additions"/>
+                  <head>
+                     <hi>THE EVANGELICAL WORSHIPPER,</hi> Subjecting to the Preſcription and Soveraignty of Scripture-patern.</head>
+                  <head type="sub">BEING THE THIRD SERMON: AND Preached on the LECTURE-DAY, <hi>APRIL</hi> II. 1663.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>Heb. 8.5.</hi>
+                        </bibl>
+                        <p>Who ſerve unto the Example and ſhadow of Heavenly things; as <hi>Moſes</hi> was admoniſhed of God, when he was about to make the Tabernacle: for ſee (ſaith he) that thou make all things ac<g ref="char:EOLhyphen"/>cording to the patern ſhewed to thee in the Mount.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">T</seg>His Verſe illuſtrates the Argument mentioned in the foregoing words, from an adjunct, or accident ac<g ref="char:EOLhyphen"/>companying the Legal Prieſt-hood: The Argument there uſed to prove that the Prieſt-hood of Chriſt excelled that prieſt-hood which was after the Order of <hi>Aaron,</hi> was, becauſe they which were of that Prieſthood miniſtred on Earth, but Chriſt miniſtreth in Heaven: He was a Miniſter of the true Tabernacle while he was on Earth, and he ſtill officiates in his Prieſtly Office now he is in Heaven; the Tabernacle which they miniſtred in, was upon the Earth, and was made of earthly things, and it was a figure or ſhadow of heavenly things: he de<g ref="char:EOLhyphen"/>clares that that Tabernacle was a worldly Tabernacle or Sanctuary,
+<pb n="30" facs="tcp:108144:23"/>1. From the quality of it; it was onely <hi>a ſhadow,</hi> or example <hi>of heavenly things,</hi> and it was a type; but Chriſt was a Miniſter of the true Tabernacle. 2. It is declared from the certainty of it, for He ſaith this: But how doth that appear? It appears from a Divine Teſtimony; <hi>For ſee (ſaith he) that thou make all things according to the Patern ſhewed to thee in the Mount.</hi>
+                  </p>
+                  <p>For the opening of the words. Firſt, we are to conſider what theſe heavenly things are: They are called in Chap. 9.11. <hi>Good things to come.</hi> In a word, it means Chriſt, with all his Be<g ref="char:EOLhyphen"/>nefits; theſe are the <hi>Heavenly things,</hi> that the other were but <hi>Shadows of.</hi> Therefore it is truely ſaid, that the Ceremonial Law holds forth Chriſt, <hi>i. e.</hi> it makes known the Goſpel (being rightly underſtood) but after a Legal diſpenſation.</p>
+                  <p>Secondly, it was <hi>a ſhadow of good things,</hi> i. e. it was a patern that did ſhadow out <hi>Heavenly things.</hi> God ſhewed <hi>Moſes</hi> a Patern, or Type, in a Viſion, according to which the Taber<g ref="char:EOLhyphen"/>nacle was to be framed, and <hi>Moſes</hi> acts accordingly. The word tranſlated <hi>[Patern]</hi> intends as much as a likeneſs, or example, or a figure. As for the Divine Teſtimony, you may ſee it in <hi>Exodus</hi> 25.9. <hi>According to all that I ſhew thee, after the patern of the Tabernacle, and the patern of all the inſtruments thereof, even ſo ſhall ye make it.</hi> And in Chap. 39. this teſtimony is often given, that <hi>All things were done as the Lord had commanded Mo<g ref="char:EOLhyphen"/>ſes.</hi> But Chriſt was the Miniſter of another Tabernacle, <hi>i. e.</hi> of his Body, the true Tabernacle.</p>
+                  <p>Doct. <hi>Great care muſt be hads in matters of Divine Worſhip, (or Divine Adminiſtrations) that all things proceed accord<g ref="char:EOLhyphen"/>ing to the Preſcript Word of God.</hi> Or, <hi>That all things be exactly corresponding to the Preſcript of Gods Word,</hi> He<g ref="char:EOLhyphen"/>brews 7.14.</p>
+                  <p>For it is evident, that our Lord ſprang out of <hi>Iudah,</hi> of which Tribe <hi>Moſes</hi> ſpake nothing concerning the Prieſthood. The Apoſtle thinks he argueth well, and concluſively, That Chriſt was not of the Levitical Order, becauſe nothing was ſpo<g ref="char:EOLhyphen"/>ken concerning it of that Tribe. This is a good Argument in
+<pb n="31" facs="tcp:108144:23"/>Divinity to ſay, That there is nothing in Gods Word why you ſhould act ſuch or ſuch a thing: it is not enough to ſay that there is nothing expreſly againſt it; the truth is, there is enough againſt it, if there be nothing for it. The Tribe of <hi>Iudah</hi> muſt not med<g ref="char:EOLhyphen"/>dle with the matters of the Prieſthood: Why ſo? becauſe <hi>Moſes</hi> ſpake nothing of them in that reſpect: and in <hi>Exod.</hi> 25.9. <hi>Moſes</hi> himſelf was to act nothing that he found not in the Patern. <hi>Exod.</hi> 26.30. <hi>And thou ſhalt rear up the Tabernacle according to the faſhion thereof, which was ſhewed thee in the Mount:</hi> He muſt act nothing that he doth not finde in the Patern. It is true, <hi>David</hi> (for ſome juſt cauſe) made ſome alteration in the Worſhip of God; for the ſtate of <hi>Temple-worſhip,</hi> compared with <hi>Tabernacle-worſhip,</hi> did call for a change. But how did <hi>David</hi> proceed in it? 1 Chron. 28.19. <hi>All this</hi> (ſaith <hi>David</hi>) <hi>the Lord made me un<g ref="char:EOLhyphen"/>cenſtand in writing, by his hand upon me, even all the works of this patern:</hi> He made no alteration in Gods Worſhip, but it was alſo by a Patern given to him by God. And for <hi>Solomon,</hi> you finde that <hi>David</hi> gave him the Patern, <hi>ver.</hi> 11. to build the Temple according thereunto. And relating to Goſpel-times, the time of the Meſ<g ref="char:EOLhyphen"/>ſias, you have an eminent text in <hi>Ezek.</hi> 43.10, 11. <hi>Thou Son of man, ſhew the houſe to the Houſe of Iſrael, that they may be aſhamed of their iniquities, and let them meaſure the patern; and if they be aſhamed of all that they have done, ſhew them the form of the houſe, and the faſhion, and the goings out thereof, and the comings in thereof, and all the forms thereof, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Reaſ.</hi> 1. Becauſe it is the acknowledgement of the Prerogative of Jeſus Chriſt; I mean that he alone hath the honour to inſtitute Divine Worſhip: He in truth was the Author of the Tabernacle, &amp; of the Temple and yet he was the Tabernacle, and the Temple, <hi>i. e.</hi> the true Tabernacle and Temple. The power of the Keyes, <hi>i. e.</hi> the inſtituted Worſhip under the Goſpel, you ſhall finde Chriſt is the maker and diſpoſer of thoſe Keyes. <hi>Mat.</hi> 16.19. It is not for man to make a Key to open Heaven, be will never be able to pick that lock. <hi>Ye ſhall reverence my Sanctuary</hi> (ſaith God, <hi>Levit.</hi> 26.2.) and why ſo? <hi>I am that Lord:</hi> (make a pauſe here) <hi>i. e.</hi> it's no leſs then the Attribute of his Lordſhip that is demon<g ref="char:EOLhyphen"/>ſtrated
+<pb n="32" facs="tcp:108144:24"/>in the matters of his Worſhip: as for inſtance, <hi>Korah</hi> was very near unto the Prieſthood, <hi>Numb.</hi> 16.1. and yet inferiour to the Prieſthood, (and it may be that was ſome tempta<g ref="char:EOLhyphen"/>tion to him to be ſo near it, and yet inferiour to it) but he muſt not offer Incenſe, <hi>Numb.</hi> 16.40. but the Prieſts, which are the Sons of <hi>Aaron,</hi> may: Why may not <hi>Korah?</hi> the reaſon is, <hi>I am the Lord,</hi> I will have this act to be matter of Divine Worſhip, and not another, and I will have this man to act, and not another; <hi>I am the Lord.</hi> Might not any man take a little perfume, and ſprinkle it on the coals? No, God will inſtitute what acts, and what perſons he pleaſeth. I have heard (I think) ſome ſay, that any man may adminiſter Baptiſm, or the Lords Supper; and I ſay it may be a Childe is able to do it: what then? But we muſt re<g ref="char:EOLhyphen"/>member what God ſaith, <hi>I am the Lord;</hi> and he will be owned in his Inſtitutions. <hi>
+                        <g ref="char:V">Ʋ</g>zzah</hi> was a good man, yet he may not touch the Ark; why not? <hi>I am the Lord,</hi> 2 <hi>Sam.</hi> 6. It is one of the holy Inſtitutions of God, <hi>Ye ſhall all reverence my Sanctuary.</hi> Hence it is, that to the holy things of God, reverence is a great part of duty: and if this or that be Gods Worſhip, remember Gods Lordſhip is in his own Inſtitutions, and he will make a difference as he pleaſeth: not that <hi>Aaron</hi> or <hi>Moſes</hi> are better then others in themſelves, they may be worſe, but God will have his Lordſhip appear in theſe his holy things. Therfore it is that we muſt be conſcientious in our reverence of the holy things of God, even in regard of bodily reverence by comely geſtures, for <hi>our bodyes are the Lords,</hi> 1 <hi>Cor.</hi> 6. Hence <hi>[Sitting]</hi> is not a Prayer-geſture; it is true, if there be great weakneſs or infirmity of body, &amp;c. that may give an ex<g ref="char:EOLhyphen"/>cuſe for <hi>the Lord will have mercy,</hi> in caſe, <hi>rather then Sacrifice.</hi> And therefore alſo it is that Chriſt ſtood up when he read the word, <hi>Luk.</hi> 4.16. and in <hi>Nch.</hi> 8.5. <hi>they ſtood up at the hearing of the Word read.</hi> We ſhould ſhew reverence at the holy things of God, becauſe they are his Inſtitutions, and <hi>he is the Lord.</hi>
+                  </p>
+                  <p>
+                     <hi>Reaſ.</hi> 2. Becauſe in Divine Worſhip we acknowledge God to be our Soveraign Lord and that we owe unto him abſolute Subje<g ref="char:EOLhyphen"/>ction and Obedience, and we acknowledge our ſelves to be his ab<g ref="char:EOLhyphen"/>ſolute Subjects. The act of Worſhip is an acknowledgement both
+<pb n="33" facs="tcp:108144:24" rendition="simple:additions"/>of his Soveraignty, and of our meanneſs: <hi>Who am I, that am but duſt and aſhes, that I ſhould take upon me to speak unto the Lord?</hi> Gen. 18. In acts of Worſhip we muſt exalt Chriſt, and depreſs man. Many in theſe dayes are againſt Forms, but in the mean time let us not forget Worſhip. For Iſrael to wait upon a Rock, was a deſpicable thing to the Nations; to ſee ſo many thouſands come and ſtand about the Rock was ſtrange, but that Rock was Chriſt: this is nothing elſe but the acknowledgement of God, who will be known in his own way. And this let me ſay, Chriſt him<g ref="char:EOLhyphen"/>ſelf, that was not onely Man but God, attended the Ordinances while he was here on earth, and ſo did his Apoſtles: this is to ſhew the diſevangelical ſpirit of thoſe that do object againſt ex<g ref="char:EOLhyphen"/>ternal Worſhip.</p>
+                  <p>
+                     <hi>Reaſ.</hi> 3. Becauſe Divine external Worſhip is a means of con<g ref="char:EOLhyphen"/>ferring heavenly things. The Keyes of the Kingdome of Heaven open or ſhut Heaven, <hi>Mat.</hi> 16.19. <hi>Naaman</hi> muſt know (if he be cured) whence the Cure comes; be muſt acknowledge the Waters of <hi>Iordan,</hi> and he muſt acknowledge the Prophet: God could have cured him without either, but he was not pleaſed ſo to do. You feed your Hens and Chickens, but you throw their meat upon the ground, and make them take it from thence: ſo God feeds us with heavenly food, but we muſt receive it in a lowly manner. You can have no Faith to expect Gods bleſſing in any way but his own; any Inſtitutions, ſo farre as they are Humane, you cannot have Faith for Gods bleſſing to go with them.</p>
+                  <p>
+                     <hi>Inſtructions.</hi> 1. The Ceremonial Law underſtood, teacheth Chriſt; the truths of Chriſt are laid up under the types of the Ce<g ref="char:EOLhyphen"/>remonial Law. When you reade the Ceremonial Law, if you un<g ref="char:EOLhyphen"/>derſtood it, you would ſee Chriſt through it; as for inſtance, <hi>Heb.</hi> 9. the Tabernacle was a figure of Chriſts Body, and ſo was the Vail: <hi>Heb.</hi> 10.20. when they went into the firſt Court, they re<g ref="char:EOLhyphen"/>membred the Incarnation of the Meſſias, and ſo when they looked on the Vail, &amp;c. they who looked on theſe types, whoſe eyes were opened, they ſaw Chriſt Reade <hi>Lev.</hi> 16.15. compared with <hi>Heb.</hi> 9.24 26. As Chriſt ſhed his blood, and ſo entred into Heaven, ſo the High-prieſt ſlew the Sacrifice, and then entred into the holy of
+<pb n="34" facs="tcp:108144:25"/>holies. And the efficacy of the Merit of Chriſt, was figured in the incenſe: this is to let us ſee, how clearly we are taught the ſame truths above what they of old were, comparing our times with theirs.</p>
+                  <p>
+                     <hi>Inſtr.</hi> 2. It is the part of thoſe who are Conſcientious, to keep themſelves unto Scripture-bounds in holy, or Church-admini<g ref="char:EOLhyphen"/>ſtrations. 2 <hi>Cor.</hi> 10.13. the Apoſtle would have them walk by a line (it relates to the Graecian exerciſes, to which the Apoſtle doth delight to allude:) it comes to one with that which the Apoſtle doth elſewhere ſay, (<hi>viz.</hi> 2 <hi>Tim.</hi> 2.5.) <hi>He that ſtriveth is not Crowned, except he ſtrive lawfully.</hi> There is a line of motion to regulate all adminiſtrations, eſpecially Church-adminiſtrations; there is a line that doth regulate the Elderſhip, and a line alſo to regulate the Brotherhood: ſo that all Church adminiſtrations, are to be carried on according to that line. This was <hi>Moſes</hi> his charge; <hi>See thou make all things according to the patern;</hi> and do you think there is not as much Conſcience to be made of it now under the Goſpel, to make all things according to the patern, as in the dayes of the Legal diſpenſation? 1 <hi>Cor.</hi> 14.40. <hi>Let all things be done according to Order:</hi> the caſe may be ſo, that though a thing be done, that is for the matter of it good, there may yet be more hurt in the diſorder of it, then there is good in the doing of it. If we exerciſe our own Notions and Apprehenſions in matters of Worſhip, this is Will-worſhip. <hi>Mat.</hi> 15.9. <hi>In vain do they Wor<g ref="char:EOLhyphen"/>ſhip me, teaching for Dectrines the traditions of men.</hi> Mark the op<g ref="char:EOLhyphen"/>poſition <hi>[Me],</hi> and <hi>[Men]:</hi> can mens traditions be an act of Divine Worſhip? No, its but Will-worſhip, <hi>Col.</hi> 2.23. there may be that which is plauſible to man, yet it's but Will-worſhip; there may be parts, and excellencies, but if they are out of place, it is that which God will not bear with: <hi>Exod.</hi> 20.25. <hi>He that lifts up his tool upon mine Altar hath pollutedit:</hi> it is enough to pollute it, becauſe it is a mans tool: we muſt not turn to the right hand nor to the left, but keep our way right on. The <hi>Corinthians</hi> turned to the left hand, when they would not Excommunicate the inceſtuous perſon; and they turned to the right hand, when they would not receive him in, being a penitent: it was an errour on the right hand,
+<pb facs="tcp:108144:25"/>
+                     <pb facs="tcp:108144:26"/>
+                     <pb n="35" facs="tcp:108144:26"/>in <hi>Peter,</hi> when he would not have Chriſt ſuffer, but a fearful ſcan<g ref="char:EOLhyphen"/>dalous one. <hi>You ſhall not adde thereto, nor take therefrom,</hi> ſaith the Lord, <hi>Deut.</hi> 4.2. <hi>&amp;</hi> 12.32. neither Elders nor Brethren muſt take upon them that which belongs not to them, nor the Council take that which belongeth not to it, nor the Magiſtrates what belongeth not to them; we muſt do nothing but according to the Patern.</p>
+                  <p>
+                     <hi>Inſtr.</hi> 3. A Religious Worſhipper, or a man truly religious, doth not reſt in this, That externals do anſwer the Preſcript Rule of the Word, without proceeding to internal Worſhip. You finde that God doth not onely bear teſtimony againſt our Worſhip, but alſo againſt hypocritical Worſhip. Firſt, againſt our Worſhip, or our Adminiſtrations; that (as you ſee) is Will-worſhip, and it is vain Worſhip, all the Inſtitutions of men are ſo; they are Will-wor<g ref="char:EOLhyphen"/>ſhip, <hi>i. e.</hi> there is ſin and defilement in them: we muſt not ſet our poſts by Gods poſts. But then ſuppoſe we are brought to external worſhip, doth God reſt here? no: do you think that God liveth on goat's bloud? <hi>Pſal.</hi> 50.13. And hence alſo, <hi>Amos</hi> 5.25. ſaith the Lord, <hi>you did not offer unto me your ſacrifices during the space of fourty years,</hi> ſpeaking of the time in the Wilderneſs: It is like there was a ceſſation, in reſpect of the condition that they were in; as who ſhould ſay, then I can be without Sacrifices. <hi>Ier.</hi> 7.22, 23. God ſaith there, <hi>He did not command Sacrifices,</hi> or exter<g ref="char:EOLhyphen"/>nal Worſhip, <hi>i. e.</hi> Comparatively, in reſpect of Obedience he commanded it not, but <hi>I Commanded them, ſaying, Obey my voice, and I will be your God, and ye ſhall be my people:</hi> So God will ſay to us, He did not Command us to come hither, to ſet up the ex<g ref="char:EOLhyphen"/>ternal Worſhip of the Goſpel, <hi>i. e.</hi> comparatively, in ſtead of O<g ref="char:EOLhyphen"/>bedience, Holineſs and Righteouſneſs: this is that which <hi>Stephen</hi> pleads, <hi>Acts</hi> 7.42, 43. <hi>Oh houſe of Iſrael, you have not offered to me ſlain beaſts; but you had the Tabernacle of Moloch, &amp;c.</hi> but they could not bear with <hi>Stephen</hi> when he came to this: So our Saviour Chriſt tell's them, <hi>They have made my Houſe a den of thieves.</hi> Thoſe among you that are given to injuſtice, drunken<g ref="char:EOLhyphen"/>neſs, or other ſcandalous wayes, this, or that, I tell you, God re<g ref="char:EOLhyphen"/>quires not your Sacrifices, but <hi>Obey my voyce, that I may be your God:</hi> this is the thing God aime's at. As for our external wor<g ref="char:EOLhyphen"/>ſhip,
+<pb n="36" facs="tcp:108144:27"/>it ought indeed to be according to the Rule, but this may be, and yet as it is in <hi>Iſai.</hi> 1.13, 14, 15. <hi>Your Incenſe is an abomination, and your ſolemn meetings iniquity, my ſoul hates them, ſaith the Lord, they are a trouble unto me, and when ye make many Prayers I will not hear them, your hands are full of blood, &amp;c.</hi> It would be a dreadful thing if God ſhould ſay to any of us that are full of duties, and concerning our Sabbaths, Lords Supper, our Faſts, our Feaſts, <hi>I am weary of your Worſhip, bring no more vain Oblations, &amp;c.</hi> God forbid that we ſhould forget the internal part of worſhip, whileſt we are exerciſed in the external. <hi>Amos</hi> 5.21. <hi>I hate and deſpiſe your feaſts, I will not ſmell in your ſolemn Aſſemblies.</hi> Look not onely to external regularity, but look we unto inward piety, leſt God hate and deſpiſe our Worſhip. <hi>Joſhua</hi> (ſaith God) <hi>Why lyeſt thou upon the ground? Chap.</hi> 7.10, 11. <hi>Iſrael hath ſinned, and tranſ<g ref="char:EOLhyphen"/>greſſed my Covenant, &amp;c.</hi> we have been much in faſtings, and in external duties many years, but what reformation is there? are we brought sny more unto the Rule in Church and State? I beſeech you know, that God aimes at Obedience as the internal ſubſtantial part of his Worſhip.</p>
+                  <p>
+                     <hi>Inſtr.</hi> 4. That the external Order of the Goſpel (Church-or<g ref="char:EOLhyphen"/>der) is no other then the external Throne of Chriſt Jeſus. Wor<g ref="char:EOLhyphen"/>ſhip that is mixt, partly Divine, and partly Humane, this is ſo much defilement in Gods Worſhip; but when it is according to the Rule, that is Chriſts Throne. Satan hath his throne, that is where Antichriſt reignes; and Chriſt hath his Throne, that is where his Inſtitutions are in force: there Chriſt ſits as Lord. If the Polity be according to the Goſpel, Jeſus Chriſt is there ac<g ref="char:EOLhyphen"/>knowledged Lord, and there is never a Member but is a Subject: there muſt be an Order, and according to that Order there muſt be ſubjection: do you think it an eaſy thing to be ſubject to Order? Remember it was matter of tryal to thoſe that came out of Egypt, and through the Sea (as we have done) yet there were <hi>men of re<g ref="char:EOLhyphen"/>nown</hi> that could not bear Church-Order. Let me tell you; it is a greater matter to be ſubject to Order, then to come over the Seas, or to endure the troubles of a Wilderneſs; many will bear a Priſon, before they will endure the Government of Chriſt, and Goſpel-order in his Church.</p>
+                  <p>
+                     <pb n="37" facs="tcp:108144:27"/>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 2. Of Exhortation to us all (in our Churches eſpecially) to ſanctifie God according to this truth, <hi>viz.</hi> That our polity may be a Goſpel-polity, and may be compleat according to the Scrip<g ref="char:EOLhyphen"/>tures, anſwering fully the Word of God: this is the work of our generation, and the very work we engaged for into this Wilderneſs; this is the ſcope and end of it, that which is written upon the forehead of <hi>New-England,</hi> viz. <hi>The compleat walking in the Faith of the Goſpel, according to the Order of the Goſpel.</hi>
+                  </p>
+                  <p n="1">1. And for your direction; firſt, remember that we have the pa<g ref="char:EOLhyphen"/>tern in the mount; I mean, we have the Scripture as a Rule, and you have the <hi>Platform of Church-Diſcipline</hi> given to you in way of Council, as the Confeſſion of our Faith to this way of Church-government: you know in what manner it was; that which (for the ſubſtance of it) ownes the cauſe Congregational: if any are departed from it, let them look to it, I know none of the Elders that have receded from it. It was given many years ago as the Confeſſion of our Faith, to this Country, and to the World: it is diſtinct from the <hi>Epiſcopacy,</hi> and from the <hi>Presbyterian way,</hi> from the <hi>Morellian way,</hi> from that of <hi>Separatiſm:</hi> and it is for the ſub<g ref="char:EOLhyphen"/>ſtance of it preciſely the way Congregational. And as <hi>David</hi> ſaid to <hi>Solomon,</hi> 1 <hi>Chron.</hi> 28.10, 11. <hi>I give unto thee the patern of the Houſe of God, &amp;c.</hi> what God will do with us he knows beſt; <hi>David</hi> lived not to build the Temple himſelf, but he left the patern thereof to his Son <hi>Solomon:</hi> And ſo we have the patern, only this is complained of, that it is not practiſed, though we have had it many years ago; now practice is the end of Doctrine.</p>
+                  <p n="2">2. Conſider, that we are all concerned in this ſervice, I mean in ſetting up the Throne of Chriſt. <hi>Moſes</hi> is concerned, and it is his commendation that he was a man of God, who erected the Tabernacle, and ſet up the Worſhip of God according to the Pa<g ref="char:EOLhyphen"/>tern in the Mount: and ſo <hi>David</hi> and <hi>Solomon,</hi> &amp;c. <hi>Thou Solomon my Son, if thou doeſt hold here, the Lord will be with thee</hi> (and let the Churches look to it, we are all concerned herein, our Fidelity in this cauſe is our Crown; ſee that it be not taken from us.</p>
+                  <p n="3">3. It is a matter of very good Policy; times of trouble &amp; danger may approach: and we read in <hi>Ezr.</hi> 3.3. that <hi>they ſet the Altar upon
+<pb n="38" facs="tcp:108144:28"/>its Baſes, for fear was upon them, becauſe of the people of the land:</hi> one means to ſecure them from fear in time of trouble, was with the firſt to proceed with the things of Religion, and to be in good earneſt to ſettle them. 1 <hi>Chron.</hi> 28.20, 21. <hi>Do it</hi> (ſaith <hi>David</hi> unto <hi>Solomon</hi>) <hi>and the Lord God, even my God will be with thee:</hi> and not only ſo, but <hi>the prieſts, &amp; the princes, &amp; the people will be with thee, &amp;c.</hi> But when <hi>Solomon</hi> falls off from God's Worſhip, then ariſeth againſt him the ſpirit of <hi>Hadad,</hi> and the ſpirit of <hi>Rezin,</hi> and the ſpirit of <hi>Ieroboam,</hi> &amp;c. 1 <hi>Kings</hi> 11. It is a great point of policy, in troubleſome times, <hi>viz.</hi> the attending to the Cauſe of Religion, Without Order the Ark could not move in <hi>Davids</hi> time, but you ſee what trouble follows upon it; and Churches cannot like<g ref="char:EOLhyphen"/>wiſe move, untill the Order of the Churches be proportionably ſettled: <hi>Haggai</hi> 1.5, 6. <hi>Now therefore ſaith the Lord of Hoſts, con<g ref="char:EOLhyphen"/>ſider your wayes;</hi> when the Worſhip of God was neglected, things went ill with them; <hi>You have ſown much, and bring in little; ye eat, but ye have not enough;</hi> and again <hi>ver.</hi> 7<hi rend="sup">th</hi>. <hi>Thus ſaith the Lord of Hoſts, conſider your wayes:</hi> and in <hi>Chap.</hi> ſecond, they do hearken to him, the Lord ſtirred up the ſpirit of <hi>Zerubbabel,</hi> and <hi>Joſuah,</hi> and from the time that they ſet themſelves about the work of the Lord, all things went well with them. How farre the drought, and the laſt years and other troubles are here conſiderable, refer<g ref="char:EOLhyphen"/>ring to our ſelves, let the Scripture be the interpreter. The mat<g ref="char:EOLhyphen"/>ters of outward proſperity have much dependance upon the car<g ref="char:EOLhyphen"/>rying on the cauſe of Religion, and that according to the Order of the Goſpel, or by the Scripture-patern; our ſafety lies in keeping there, not turning to the right hand, nor turning to the left hand. In <hi>Exod.</hi> 39. you have it mentioned about ten times in that Chapter in way of Commendation, that what was done was ſo <hi>according as the Lord had Commanded Moſes.</hi> Let this ſtand with us I beſeech you (beloved) that for the motion of Elders, of Brethren, of Councils, of Magiſtrates, of Churches, ſettle the ſame as the Lord hath. Commanded, <hi>i. e.</hi> according to Scripture-pre<g ref="char:EOLhyphen"/>ſcript and patern; we are then a ſafe People.</p>
+                  <trailer>FINIS</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:108144:28" rendition="simple:additions"/>
+                  <p>A COPY OF THE LETTER Returned by the MINISTERS of <hi>NEW-ENGLAND</hi> TO M<hi rend="sup">R.</hi> JOHN DURY ABOUT HIS PACIFICATION.</p>
+                  <p>
+                     <hi>Faithfully Tranſlated out of the</hi> Original Manuſcript <hi>written in Latine, By the Reverend A<g ref="char:V">Ʋ</g>THOR of the Three former</hi> SERMONS.</p>
+                  <p>With ſome Conſiderations premiſed about that Subject, neceſſary for theſe Times.</p>
+                  <p>
+                     <hi>By a Lover of Truth and Peace.</hi>
+                  </p>
+                  <p>Publiſhed in the Year 1664.</p>
+                  <pb n="38" facs="tcp:108144:29"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:108144:29" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:108144:30"/>
+                  <pb facs="tcp:108144:30"/>
+                  <head>THE PREFACE TO THE READER.</head>
+                  <p>
+                     <seg rend="decorInit">A</seg>S of old it was obſerved, that <hi>Julian</hi> who hated the Chriſtians with an implacable hatred, when he could invent no way worſe, opened a wide way for Schiſms and Diviſions: In like manner hath it been the Policy of the Adverſary in ſucceeding times, when there ap<g ref="char:EOLhyphen"/>pears no hope of undermining the Walls of Truth by Hereſie and falſe Doctrine, to attempt the ſcattering and disperſing the Aſſertors there<g ref="char:EOLhyphen"/>of, by raiſing and fomenting Schiſms and Diſſenſions amongſt them. From which Fountain, it may juſtly be feared, hath sprung a jealouſie in the mindes of ſundry perſons in this Country, That the Determina<g ref="char:EOLhyphen"/>tion of the late Synod <hi>Anno 1662.</hi> if attended unto, would bring into the Churches of <hi>New-England</hi> a practice, contrary both to the Frame of their Churches, and to the judgement of thoſe famous Worthies that at firſt their Churches were bleſt withall; when as it will be found moſt evident to any that ſhall impartially ſurvey the Conſtitution and ſtate of the ſaid Churches, That the principall, if not the ſole Reaſon, why the ſame things then agreed upon, were not long before ſet afoot and practiſed, was not any doubt or ſcruple about the duty of the things themſelves, but the want of Agreement about the Way and Manner, how they might moſt conveniently and ſafely put in practice: which being now fully cleared up in the Propoſitions of the ſaid Synod, the Asperſion caſt upon their former Church-adminiſtrations, as too much favouring the way of the Separation, is not onely now removed, but an Expedient found out for the holding Communion with other Orthodox Churches, in things lawful and neceſſary, without any prejudice to the the Purity of their Worſhip.</p>
+                  <p>The commendable receiving and practiſing of this Truth by ſome Churches among them, and neceſſity of attending thereunto by all, is
+<pb facs="tcp:108144:31"/>moſt convincingly evident by many writings publiſhed abroad in the world by many Eminent perſons in the name of others, wherein much paines is taken up in clearing the way of theſe Churches, from the imputation of Schiſm and ſeparation from others; but in none more, then in a Letter re<g ref="char:EOLhyphen"/>turned with the Subſcription of the names almoſt of all the <hi>Elders</hi> univer<g ref="char:EOLhyphen"/>ſally in this Place, unto a Letter of the Reverend and Learned <hi>Mr. John Dury,</hi> who ever ſince the year <hi>1635.</hi> had been labouring for a Paci<g ref="char:EOLhyphen"/>fication between the Reformed Proteſtant Churches of <hi>Europe,</hi> and who is famous in the Chriſtian World for that work, and at laſt had com<g ref="char:EOLhyphen"/>municated his deſign to thoſe of <hi>New-England,</hi> deſiring their Appro<g ref="char:EOLhyphen"/>bation and Concurrence in the ſaid deſign; wherein they expreſly de<g ref="char:EOLhyphen"/>clare, <q>
+                        <hi>That they own all thoſe Churches profeſſing the Pro<g ref="char:EOLhyphen"/>teſtant Religion, and retaining the fundamentals of Doctrine, and eſſentials of Order (if they be otherwiſe peaceable, and walk orderly) for Brethren; and that they are ready to reach out unto them the right hand of fellowſhip:</hi>
+                     </q> From whence it will neceſſarily follow, that ſeeing other Churches ſo qualified, although they ſhould diſſent from them in many Points of Religion, are owned as Brethren, and that in way of fellowſhip, if thoſe, that ſo profeſs, ſhall refuſe to conferre the ſeal of Baptiſm to the Children of ſuch Parents as belong to any ſuch like Churches, according as is expreſſed in the aforeſaid Propoſitions of the Synod; They will neither be able to avoyd contradicting their own words and writings, nor yet ſecure themſelves from the guilt of diſſimulation. And that it might appear there was no advantage taken by any ſtragling ſentence or expreſſion in the ſaid Letter, caſt off from its Dependants, it was thought neceſſary to Tranſlate and publiſh the whole to the open view of all: and becauſe alſo in the draught of the ſame, are found many undeniable Arguments enforcing this very Concluſion; as when its ſaid, <q>
+                        <hi>That the diverſe opinions of ſome Churches about Polity and indifferent things, although they are not ſo ſmall that the lovers of truth ſhould be ſilent about them, ſo neither are they ſo great, that they need be any hindrance to the ſeekers of Peace and Quietneſs in ſuch an undertaking.</hi> Which is alſo there further evidenced, by inſtan<g ref="char:EOLhyphen"/>cing <hi>the unqueſtioned Example of our Saviour, who refuſed not</hi> Celebrare Sacra, <hi>or joyn in the Worſhip of God in the Jewiſh
+<pb facs="tcp:108144:31"/>Church, defaced at that time with more grievous corrup<g ref="char:EOLhyphen"/>tions.</hi>
+                     </q>
+                  </p>
+                  <p>And further it is added, <q>
+                        <hi>That the nature of Political, as well as Chriſtian Society, doth utterly forbid the denial of Fellowſhip-priviledges to ſuch Members as are found without ſcandal.</hi>
+                     </q> Let not the words and practices of them that pretend to the greater Purity of Reformation, be <hi>Yea</hi> and <hi>Nay:</hi> which if it ſhould appear, the Scandall would be ſo much the greater; in that the foreſaid Letter, with ſo many Subſcriptions, in all probability is known in the world, being ſent into Forreigne parts upon a Pub<g ref="char:EOLhyphen"/>lick account.</p>
+                  <p>As for the Tranſlation of the Letter; they who had the chiefeſt hand therein, have no other deſign, then by approving themſelves as Lovers of Truth and Peace, to undeceive ſimple-hearied and honeſt<g ref="char:EOLhyphen"/>minded perſons, who are ready, with <hi>Barnabas,</hi> to be carried away with the diſſimulation of ſuch, as are through a kinde of prepoſterous Zeal, unwilling to have any of the common Priviledges of the Church of God beſtowed upon any, whoſe effectuall Sanctification may be queſtioned; which is the cauſe, as one obſerveth, of a Schiſmaticall inclination of ſome godly and religious perſons. In reference to the Words and Phra<g ref="char:EOLhyphen"/>ſes, much of the Elegancy of them is taken away in the Tranſlation, by reaſon of the abſtruſeneſs of the Latine; it faring in this kinde with Books, as it doth with Bodies, which are nothing ſo comely when arrayed with a ſtranger, as with their own proper clothing and habit: but where<g ref="char:EOLhyphen"/>ever appeared a neceſſity of changing the phraſe, the ſenſe is preſerved whole and entire.</p>
+                  <p>For a Concluſion: If the Practice of the pureſt Churches, together with the Authority of the moſt Pious, Zealous, Learned and judicious Divines, might avail any thing in this conſideration, it were eaſie to preſent many things to the view of the Reader, from the Writings of<note n="a" place="margin">Caſ. Conſc Ep <hi>9.</hi> qu. <hi>3.</hi> Com. Gal <hi>5.27.</hi>
+                     </note> 
+                     <hi>Perkins,</hi>
+                     <note n="b" place="margin">De Pol lib. <hi>1.</hi> cap. <hi>13, 14, 33.</hi>
+                     </note> 
+                     <hi>Parker,</hi>
+                     <note n="c" place="margin">Epiſt. <hi>149.</hi> &amp; <hi>103.</hi>
+                     </note> 
+                     <hi>Calvinus,</hi>
+                     <note n="d" place="margin">Locus <hi>47.</hi> theſ. <hi>33, 34.</hi>
+                     </note> 
+                     <hi>Bucanus,</hi> with many other of the Learnedſt Non-Conformiſts, who alwayes diſclaimed both the Prin<g ref="char:EOLhyphen"/>ciples and Practices of the Rigid Separation, and all ſuch as renounced Communion with other Churches, upon the account of ſome Impurities about Order and Diſcipline: However it came to be the fate of theſe Churches in <hi>America,</hi> to verge too near them in their Primitive Admi<g ref="char:EOLhyphen"/>niſtrations.
+<pb facs="tcp:108144:32"/>But we ſhall onely content our ſelves with the mentioning the Judgement of two, not the leaſt eminent and famous Lights in the Church of God, about this point. <hi>No Church can be ſaid to be alienated from God, and from his Covenant, although it may be<g ref="char:EOLhyphen"/>come very ſick and adulterous, until God ſhall have taken away from it his Matrimonial Covenant, caſting it quite off as defiled with Adultery, according to <hi>Iſa.</hi> 50 1. which will not be, ſo long as it retaines the Head, and the Head retaines it, by a publick decla<g ref="char:EOLhyphen"/>ration of his grace that calleth, Col. 2.19.</hi> Jun. Theſ. Theolog. Theſ <hi>36.</hi> pag. <hi>2099.</hi> But <hi>Ames</hi> more fully about the Subject of Baptiſm: <hi>1. Expoſitious Infants are to be baptized, whoſe Parents are unknown, if they be born among Chriſtians: out of charity they are to be looked at as the ſons of Chriſtians, if there be not juſt cauſe to preſume the contrary. 2. They that in ſome way by their Profeiſion belong unto the Church, yet notwith<g ref="char:EOLhyphen"/>ſtanding do openly violate the Covenant of God, their Infants ought to be baptized, though with ſome diſtinction;</hi> ſc. <hi>ſo that what the Covenant requires, and is wanting in them, be ſupplied by others. 3. Infants illegittimate ought ſo to be baptized, that either their Parents profeſs their Repentance, or that their Educa<g ref="char:EOLhyphen"/>tion be undertaken by other godly perſons. 4. Children of contumacious Excommunicates are not conveniently baptizable, unleſs by the interpoſition of meet Sureties. 5. Infants of Pa<g ref="char:EOLhyphen"/>piſts, and ſuch like, who are Semi-Chriſtians, may be baptized, if they finde a meet ſurety, under whoſe power may be their Edu<g ref="char:EOLhyphen"/>cation.</hi> Ameſ. Caſ. Conſc. <hi>Lib. 4. Cap. 27.</hi> To which may be added, <hi>The Baptiſm of Infants ought not to be deferred, without a ſe<g ref="char:EOLhyphen"/>rious and weighty reaſon.</hi> Ibid.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb n="1" facs="tcp:108144:32"/>
+                  <head>TO THE WORTHY AND EMINENT, <hi>M<hi rend="sup">R.</hi> JOHN DURY,</hi> SAL<g ref="char:V">Ʋ</g>TATIONS,</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat amongſt ſo many horrid Alarms of War, amongſt ſo many fatal differences of Opinion raiſed in matters of Religion, and that alſo after ſo many, and ſuch un<g ref="char:EOLhyphen"/>wearied labours of famous Interceſſors, now ſo often in this cauſe undertaken in vain; you ſhould O <hi>Dury,</hi> the moſt zealous Friend of Peace, not onely be ſeriouſly thinking of, but are alſo unto this day ſtrongly endeavouring the Eſpouſals of Truth and Peace between the Profeſſors of the Goſpel; we verily do largely congratulate you in the conceiving ſo great a deſign, with our utmoſt, and daily Prayers, helping forward (by Gods Aſ<g ref="char:EOLhyphen"/>ſiſtance) the birth of this Man-Childe. Suffer us to ſpeak the very truth of the matter, nor is there any need to deny the ſame: even as the Holy-Scripture relates how the Olive Branch, brought much comfort to the Parent of the other World after the Flood, while he was lamenting over the Tremendous Spectacle of the Deluge over flowing all here below; in like manner did your Let<g ref="char:EOLhyphen"/>ter, breathing a very ſpirit of peace, as another <hi>Noahs</hi> dove, ſent down from Heaven, wonderfully refreſh the exile Brethren, who were almoſt aſtoniſhed to ſee ſo many nations, that profeſs the Goſ<g ref="char:EOLhyphen"/>pel, making irreconcileable war amongſt themſelves, together with the many and great diſſentions in the buſineſs of Religion, and that monſtrous flood of Errour breaking forth, not out of the Cataracts of the Clouds, but the very Mouth of the Dragon.</p>
+                  <p>Be it ſo, that we are in the utmoſt parts of the Earth; we have
+<pb n="2" facs="tcp:108144:33"/>onely changed our Climate, not our mindes: we have altered our place, that we might retain the Faith without alteration. There are indeed ſome, that might have been better imployed, at leaſt meer ſtrangers to our affairs, who do therefore impute unto us the guilt of Schiſm, becauſe in the firſt place we have endeavoured after the pure Worſhip of God. But if any ſee good to enquire into the Reaſon, why theſe Churches in the Wilderneſs left their Country, this it was, <hi>viz.</hi> that the Ancient Faith, and pure Wor<g ref="char:EOLhyphen"/>ſhip, might be found inſeparable companions in our Practice, and that our poſterity might be undefiled in Religion: Nevertheleſs, we are never unmindefull of the ſaying of <hi>Auſtin</hi> to the Brethren in the Wilderneſs, as he ſtyles them; <hi>There are two things conſiderable,</hi> ſaith he, <hi>Conſcience and good Name: Conſcience is neceſſary for thy ſelf, good Name for thy Neighbour:</hi> He who truſts to his Con<g ref="char:EOLhyphen"/>ſcience, and neglects his good name, is cruel, eſpecially if he be ſet in that place, of which the Apoſtle writing to his Diſciple, ſaith, <hi>In all things ſhew thy ſelf an example of good works.</hi> It may not be unlawful for us, who are in the Wilderneſs on the further ſide of the Seas, as well thoſe, who through grace are called to the Miniſtry, though in our ſelves the greateſt of ſinners, and the leaſt of all the Saints, as any others, to Apologize for our ſelves in the Words of the Tribes beyond Jordan a little changed, for the vindicating or preſerving our good name in a matter of ſo great moment, both before great ones, Fathers, Brethren, and every gentle Reader, <hi>The Lord God of Gods, the Lord God of Gods he known, and Iſrael ſhall know, if wittingly and willingly in Rebellion, or treacherous dealing againſt the Lord, or in Schiſm it be, that we have departed from our Country, ſave us not this day.</hi>
+                  </p>
+                  <p>But yet notwithſtanding, we are not unmindful of that ſo known Oracle, <hi>[Love the Truth and Peace:]</hi> we neither ſtrive for Truth without making reckoning of Peace, neither do we purſue Peace with the loſs of Truth: the former defaceth, this latter teareth the ſeamleſs Coat of the Church. It is as neceſſary to avoid the Rock of Schiſm on the right hand, as the Quickſands of Confuſion on the left. We renounce <hi>Samarataniſm,</hi> that deadly ſink of falſe Doctrine, as much as we fly from <hi>Donatiſm,</hi> the ſore
+<pb n="3" facs="tcp:108144:33"/>enemy of Evangelical Temperament, and devourer (if we may ſpeak after <hi>Teriullian</hi>) of Chriſtian Society; but admire and em<g ref="char:EOLhyphen"/>brace the Concord, and Agreemeent of the Goſpel. We are no whit pleaſed with <hi>Caſſanders</hi> ſhaking hands with Papiſts at the furtheſt diſtance, erring from the Truth; Nor yet with the Romaniſt renouncing Communion with them that are otherwiſe minded in leſſer differences: but in ſpecial manner we ought to labour, that we may walk with an even foot, and not to turn aſide an haires breadth from the Truth: in the mean time, it is better to be a <hi>Cyprian</hi> then a <hi>Steven.</hi> It is much more grievous to think aright, and be found a Sciſmatick, then to think amiſs in things not fun<g ref="char:EOLhyphen"/>damental, and be of a peaceable ſpirit. The ſpirit of our Lord Jeſus Chriſt is a ſpirit of Truth, of peace and Communion: ſo deſirous of Peace, that it requireth Communion in a true Church, although not pure; and ſo deſirous of Truth, that it forbids im<g ref="char:EOLhyphen"/>purity in any Church whatſoever. That, that is the Mark at which we aim, and which we endeavour and breath after, in him who is <hi>the Way, the Truth and Life.</hi>
+                  </p>
+                  <p>It is confeſſed, there are ſome <hi>Apices,</hi> or leſſer points in Divinity, which the Church of God hath now for above an hundred years bewailed, as the obſtacles of Peace, concerning which the chief controverſies maintained are about Predeſtination, Ubiquity, and the Euchariſt. About theſe points how many thouſand Polemick writings have been extant all abroad, which the Chriſtian World is ſcarce able to contein? Alas! that ever there ſhould be a warre about the Sacrament! Alas! that ever there ſhould be any con<g ref="char:EOLhyphen"/>tentious Treatiſes about the Euchariſt, turning the very Badge of Union, into an Apple of Contention! who can refrain from tears at the uttering of ſuch things? yet theſe notwithſtanding, that there is place for the ſo much deſired Coalition between the Evangelicks and the Reformed, ſo called may eaſily be made appear, by run<g ref="char:EOLhyphen"/>ning through the chief Heads of things:</p>
+                  <p>As namely, Becauſe in the firſt Article, they who were the greateſt Favourers of that eminent Worthy of the former Age, do yet aſcribe the work of Converſion wholly unto God, and do likewiſe ſtifly maintain, and accurately defend, Grace to be al<g ref="char:EOLhyphen"/>together
+<pb n="4" facs="tcp:108144:34"/>free; who were alſo utter enemies to that peſtilent Opinion of the Schoolmen <hi>[That God is bound to him that doth what he can of himſelf]</hi> And who likewiſe do deſervedly account it meer Pelagianiſm, to make any kinde of Qualifying Fitneſs a Moral Motive unto predeterining Grace.</p>
+                  <p>As for the Opinion of the Ubiquity of the Humane Nature, by virtue of the Hypoſtatical Union; it cannot be denied, but that Papers have come abroad, written by too much gall and ſharpneſs. In the mean while it is agreed upon by all, and taken for granted, That the Humane Nature is Perſonally Omnipreſent, According to this Rule likewiſe are other Propoſitions about the Perſon to be judged of, under this head.</p>
+                  <p>Laſtly, As concerning the Lords Supper; the Divines of either part, do reject Tranſubſtantiation, together with worſhiping of bread. But about the Real Preſence, <hi>viz.</hi> Sacramental, of the Body and Blood of Chriſt, it is agreed between both. Theſe ſo many and great Differences, are to be accounted as ſo many Heart-griefs, although not to be numbred amongſt them which by the Apoſtle are called <hi>
+                        <g ref="char:V">Ʋ</g>nlearned Queſtions;</hi> yet we judge them not to be of that moment, as to hinder the giving each other the right hand of fellowſhip, or the pledges of Ecleſiaſtical Brotherhood, building upon that Apoſtolical Canon of holy Communion, <hi>Nevertheleſs, in that whereunto we have attained, let us walk by the ſame Rule, let us minde the ſame thing,</hi> Phil. 3.16. Here alſo we may call to minde that common and received Diſtinction between Fundamen<g ref="char:EOLhyphen"/>tals, and non-fundamentals; and, that Brotherly Fellowſhip is not to be refuſed with men peaceable, and otherwiſe Orthodox, for the ſake of Non-fundamentals.</p>
+                  <p>We account it very unequal to faſten upon any one that holds an Opinion; all the Conſectaries, which to him that argues ac<g ref="char:EOLhyphen"/>cording to the exacteſt grounds of Reaſon, ſeem to follow upon ſuch premiſes, eſpecially if thoſe Conſequences be diſowned by him: in which reſpect there are no ſmall Errours on both ſides, while thoſe of our ſide impeach the other of <hi>Eutyches</hi> his opinion, though refuſing to own it, for the ſake of Conſubſtantiation;
+<pb n="5" facs="tcp:108144:34" rendition="simple:additions"/>And they on the other ſide go about to make ours guilty of making God the Author of Sin, although we never ſo much diſclaim it, in the Point of Predeſtination. The Diſputes about the Conſequences of theſe, whether rightly inferred or not, from the premiſes, belong not to this place to be examined, yea the mat<g ref="char:EOLhyphen"/>ter it ſelf requires rather that we ſhould forbear.</p>
+                  <p>But this Tragedy is not yet at an end. For, as to Polity, and in<g ref="char:EOLhyphen"/>different things, they have taken up divers Opinions; who it were to be wiſhed that they would embſace that Concord one with another, which hath been ſo often endeavoured after. But the Differences of this nature, as they are not ſo ſmall, that the Lovers of Truth ſhould be ſilent about them; ſo neither are they ſo great, that they need be any hindrance to the Seekers of Peace and Quietneſs in the preſent Undertaking; as may appear by the unqueſtioned Example of our Saviour, who refuſed not to Celebrate the Worſhip of God in the Jewiſh Church, defaced at that time with more greivous corruptions. They who are united to Chriſt by heart-converting grace, are Members of his Myſtical Body; and whoſoever, but in appearance at leaſt, are joyned to the Head, and have added themſelves to the Polity of Iſrael, are to be received Members of the Political Body. Now Communion follows upon Union. Beſides the nature of Political, as well as Chriſtian Society, doth utterly forbid to deny the Priviledges of fellowſhip to ſuch Members as are found with<g ref="char:EOLhyphen"/>out Scandal.</p>
+                  <p>Thus much we thought good to ſpeak briefly about this Point, that Honoured Perſons, and Reſpected Brethren, might under<g ref="char:EOLhyphen"/>ſtand what Reaſons moved us to entertain the ſame Opinion with themſelves. We have been taught, that the Idea, or Patern of holy Communion, ought to be fetched from Divine Writ, and not to be framed after our own pleaſure.</p>
+                  <p>The Rules of Sacred Society are certain; beyond which, or ſhort of which, it is not in our power to extend, or withhold the Right-hand of Brother-hood. Whoever having attained theſe ſhall acknowledg them; and having acknowledged them, ſhall walk according unto them; ſo holding Communion with ſinners,
+<pb n="6" facs="tcp:108144:35"/>as he doth not in the leaſt communicate with their ſins, ſo as he is wanting neither to the Truth, nor himſelf, nor his Brethren, him we deſervedly eſteem both as a Guide and Pillar of the Church: will we, or nill we, we are Brethren; and ſeeing we are Brethren, let us acknowledge our ſelves what we are, namely, <hi>Brethren in the Lord.</hi> A day would ſcarce ſuffice, to rehearſe how many and how great incitements do call for, and require this. To account the weak in Faith for none, is indeed it ſelf a greater weakneſs. The name of Brethren is ſweet: it is matter of great delight to be ſuch indeed. But it is much to be lamented, that thoſe who are ſo, ſhould not be acknowledged to be ſo. So to ſtand for Truth, that by too tenacious inſiſting upon Doctrine, we make no reckoning of the Rights of Society, is to be carried with the ſtudy of Parties, not of the Truth; and to undertake the Pa<g ref="char:EOLhyphen"/>tronage of an Opinion, rather becauſe it is our own, then becauſe it is true.</p>
+                  <p>Sounder Philoſophy determines, that the excellency of Union is to be eſteemed according to the dignity of the Cauſe. We here paſs over in ſilence the conſpiring together of the waters and dry land to make one Globe; as alſo that of the frame of the Heavenly and the Earthly Globe, to make one Sphere of the World. There may be found an heap of Miracles in the quiet gathering the living creatures into the Ark, and their abiding in it, where the moſt ſavage of them laid aſide their ſavageneſs; being ready to acknow<g ref="char:EOLhyphen"/>ledge <hi>Noah</hi> for their Lord (not much otherwiſe then <hi>Adam</hi> in giving Names unto them) where might be ſeen the Wolfe ſtanding amongſt the Sheep, neither do the Flocks ſeem affraid of the great Lyons: Theſe are indeed very great things; but yet if they be compared with the Myſt cal Union, ſhining forth in one of the very leaſt of Chriſts Members, there would want words to expreſs how great the diſtance is. To proceed therefore, if the Union of a very few Believers be of ſo great moment, of how great ac<g ref="char:EOLhyphen"/>count ſhould be the Uniting of all Proteſtants in the Faith? But let us here pauſe a while, and not think much to weigh this matter a little more ſeriouſly, and we ſhall finde (unleſs we are much de<g ref="char:EOLhyphen"/>ceived) this very Union about which we are treating, if it be
+<pb n="7" facs="tcp:108144:35"/>without hypocrifie and deceit, but as the very off-spring and image of the Hypoſtatical Union, and onely next unto it on Earth (as to the kinde) and like unto which there will not be found any in Heaven, no not when Angelical Nature remained in its perfection. We do believe indeed, and not out of a vain conceit, That this Agreement is a bright Looking-glaſs made of the Blood of the Lamb, wherein Jeſus himſelf, the Prince of ſo great a Peace, clearly ſhines forth: in paſſing through which alſo, he doth ir<g ref="char:EOLhyphen"/>radiate the World with its brightneſs, while it ſtedfaſtly beholds this clear Looking-glaſs, and by irradiating, ingenerates Faith therein. In which reſpect we need not fear to affirm, That the perpetual conjunction of all Mankinde, eſtabliſhed by the Bond of the firſt Covenant, would be by infinite degrees exceeded by it; <hi>That they all may be one, as thou Father in me, and I in thee, that the world may know that thou haſt ſent me,</hi> Joh. 17.21.</p>
+                  <p>If the poſſibility of ſuch a Peace ſhould appear, we could not do much in the purſuing the neceſſity thereof. Notwith<g ref="char:EOLhyphen"/>ſtanding (if we may have leave) that this Neceſſity may be faſt<g ref="char:EOLhyphen"/>ned in our mindes, as they ſay, with the ſtrongeſt Nayle, before we leave this Exhortatory part of our Diſcourſe, we think meet, for a Concluſion, to adorn and ſtrengthen it with the Sayings of ſome Famous men, tending much unto Peace.</p>
+                  <p>At <hi>Marpurg, Luther</hi> long ſince profeſſed, <hi>That he would not yield this Praiſe to the Adverſe Party, that they ſhould be more ſtu<g ref="char:EOLhyphen"/>dious of Concord and Peace then himſelf.</hi> From whence aroſe that famous Concord of <hi>Marpurg.</hi> We finde alſo <hi>Calvin</hi> thus ex<g ref="char:EOLhyphen"/>preſſing himſelf, that he might compoſe mindes, and allay ſo great Commotions, at a time when Contention was grown much too hot; <hi>But I deſire you to conſider, firſt, How great a man</hi> Luther <hi>is, and in what great Gifts he doth excell, and with how great Courage and Conſtancy of Minde, with how great Dexterity, with how great Efficacy of Learning, he hath hitherto endeavoured to put to ſtight the Kingdome of Antichriſt, and propagate the Doctrine of Salvation. I have been often wont to ſay, That if he ſhould call me Devil a thouſand times, that I would yet give him that honour, as to acknow<g ref="char:EOLhyphen"/>ledge him the eminent Servant of God.</hi> But our <hi>Davenant</hi> moſt
+<pb n="8" facs="tcp:108144:36"/>ſevereſt of all; <hi>If the Schiſmes of Churches might be taken a<g ref="char:EOLhyphen"/>way, as without doubt they may, I would rather have a Mill<g ref="char:EOLhyphen"/>ſtone hanged about my neck, and be caſt into the Sea, then either hinder a Work ſo acceptable unto God, and ſo neceſſary to avoid Scandals, or not promote it with my whole heart, and all my utmoſt Endeavours.</hi>
+                  </p>
+                  <p>
+                     <hi>Epiphanius</hi> would not that Chriſtians ſhould have any By<g ref="char:EOLhyphen"/>name. <hi>Let the Nick-name of</hi> Zuinglians <hi>and</hi> Calviniſts <hi>then ceaſe, the Marks rather of Faction, then of Brotherly <g ref="char:V">Ʋ</g>nion. What ſhould we have to do with</hi> Luther? <hi>What ſhould we have to do with</hi> Calvin? <hi>We Profeſs the Gospel, we Believe the Gospel. Bellarmine</hi> ſome<g ref="char:EOLhyphen"/>where hath a Catalogue of a great many Kingdomes that fell off from the Papacy: whoſe defection from the <hi>Myſtery of Iniquity,</hi> if it hath troubled the Cardinals of <hi>Rome,</hi> how much more would their Uniting together in the <hi>Myſtery of Piety,</hi> be a terrour to the Roman Party? When the truly holy League ſhall wholly ſtand for the Lamb; when Humane Endeavours and Diſſenſions being laid aſide, they ſhall onely intend that one thing, to afford their mutual help for the promoting of Religion; when they ſhall unanimouſly carry on the war of the Lord againſt the Whore, as if they were indued with the very Spirit of the <hi>Revelation;</hi> when they ſhall be called neither <hi>Engliſh,</hi> nor <hi>Dutch,</hi> nor <hi>Swedes,</hi> nor <hi>Danes,</hi> but onely Chriſtians.</p>
+                  <lg>
+                     <l>If Poets Writings any truth contain,</l>
+                     <l>Ages fierce Wars ſhall never more maintain.</l>
+                  </lg>
+                  <p>But it is not in our power, moſt excellent <hi>Dury,</hi> to adde our coun<g ref="char:EOLhyphen"/>ſel, either to the beginning or the preſerving this Agreement. You are not ignorant, that we are Exiles, <hi>Britains,</hi> altogether divided from the reſt of <hi>Europe;</hi> wherefore we are leſs fit to perform this Taſk: Neither are we ſo unſenſible of our own weakneſs, as not readily to confeſs our inability for ſo great a Service; nor is there need, ſeeing we muſt thankfully acknowledge and own, that this office hath been abundantly performed, both by Strangers, as well as by our own Countrymen.</p>
+                  <p>We may here call to minde, and not without ſome ſacred ſym<g ref="char:EOLhyphen"/>pathy,
+<pb n="9" facs="tcp:108144:36"/>thoſe Bleſſed Soules, <hi>Melancthon,</hi> and <hi>Pareus,</hi> now amongſt the Bleſſed; the one no leſs famous amongſt the Reformed, then the other amongſt the Evangelicks; The firſt of whom going towards <hi>Haganoa,</hi> with ſighing uttered theſe words,</p>
+                  <lg>
+                     <l>In Synods hitherto we lived have,</l>
+                     <l>And now in them return unto the grave.</l>
+                  </lg>
+                  <p>The other ſeriouſly meditating on the controverſie of the Enchariſt, brake forth into theſe words; <hi>I am weary with diſputing.</hi> Thus, if theſe men might be Judges, we ought rather Pray, then Diſpute, and ſtudy how to Live, then to Contend. And perhaps the Divines of either part, after they have been wearied, and broken in their Spirits with daily and continual Contentions, will more readily ac<g ref="char:EOLhyphen"/>cept of the Counſels of Peace, which hitherto have been leſs ac<g ref="char:EOLhyphen"/>ceptable, while the Senſe of Anger remained freſh: After by long uſe they have been taught, they may prefer the waters of the <hi>Paci<g ref="char:EOLhyphen"/>fick Sea,</hi> before thoſe of <hi>Meribah.</hi> Nor need we ſay, That thoſe Honoured Perſons, and Brethren, will perhaps more kindly enter<g ref="char:EOLhyphen"/>tain the Counſels of Peace, ſeeing there are, we know not how many Sayings, Writings, Deeds of Princes, Churches and Univerſities, openly teſtifying, That eminent men of both Orders, and that not of the loweſt Rank, have not onely received, but taken Counſel to<g ref="char:EOLhyphen"/>gether, and engaged their helping hand, as need ſhall require: from which beginnings it is but meet to hope the beſt. God is able to make them workers of Peace, whom he hath given to be Seekers of Peace: If otherwiſe, ſuch eminent endeavours ſhall not want their reward in heaven, and their honour in Iſrael. Theſe are piouſly He<g ref="char:EOLhyphen"/>roick Enterpriſes, which as they do oblige all good men, ſo are they to be admired of them. Their Praiſes, how great, or how little ſo<g ref="char:EOLhyphen"/>ever, as the preſent age is not altogether ſilent about them; ſo will poſterity declare the reſt, and perhaps <hi>the unknown parts of the World.</hi>
+                  </p>
+                  <p>We give thanks unto the Father of Lights with all our hearts, who hath put this Work into the minde of <hi>Dury,</hi> ſavouring of a Spirit more then Humane; and hath added alſo ſuitable Cou<g ref="char:EOLhyphen"/>rage to the promoting ſo Pious and Apoſtolical a matter, which Task, whoſoever ſhall effect, if we may be Judges, will de<g ref="char:EOLhyphen"/>ſerve
+<pb n="10" facs="tcp:108144:37"/>a more then ordinary Triumphant Statue; and whoſe Mo<g ref="char:EOLhyphen"/>nument will ſo far excel the Trophees of <hi>Achilles,</hi> as if they were not worthy to be mentioned in the ſame day. However the iſſue of the matter fall, yet it is a great deal, to have attempted in a great Deſign. <hi>Seek the Peace of Jeruſalem, they ſhall prosper that love thee.</hi>
+                  </p>
+                  <p>We give thanks unto the God of Peace, who would not ſuffer the labours of his ſervant endeavouring after peace, to be under<g ref="char:EOLhyphen"/>taken altogether without ſucceſs. Therefore, moſt worthy Sir, go on in this your ſtrength, reſting on the prophecy for the deſired Concord, <hi>That it ſhall be in it's own appointed time.</hi> The power which have obeyed the Roman Harlot, ſhall hate her, make her naked, and burn her with fire; For God hath put it into the hearts of the Kings, that they ſhould fulfil his will. It doth not become thoſe that have a meet underſtanding of things, to doubt of their Agreement in the Faith, who are to burn to Aſhes the Metropolis of the laſt Head of the Beaſt, as an enemy to the Faith. The Diſcord of the Kings detaines the Whore on her throne, and keeps the Woman in the Wilderneſs, while they are contending amongſt themſelves.</p>
+                  <lg>
+                     <l>It makes all <hi>Priamus</hi> his houſe rejoyce,</l>
+                     <l>And other <hi>Trojans</hi> to lift up their voice.</l>
+                  </lg>
+                  <p>But this their ſacred Concord, the renowned Sons of Sion cannot but look upon, as a forerunner of the Deſtruction of <hi>Rome,</hi> now at the very doors; and accordingly with their daily and moſt ardent prayers breathe after, hope, and long for the ſame.</p>
+                  <p>Laſtly, we give thanks to Mr. <hi>Dury,</hi> into whoſe heart it came to remember <hi>Joſeph,</hi> ſeparate from his Brethren at ſo great a diſtance, both by Sea and Land; and who hath vouchſafed with ſo com<g ref="char:EOLhyphen"/>fortable a meſſage to viſit us poor wretches, clothed in Sackcloth for our warfare; yet, as we truſt, the Sackcloth of the Goſpel: who hath not refuſed to put <hi>New-England,</hi> as a part of the skirt of <hi>Aaron's garment,</hi> upon which hath deſcended ſome of the pre<g ref="char:EOLhyphen"/>cious Oil, into the Catalogue of the ſo much famed Agreement:
+<pb n="11" facs="tcp:108144:37" rendition="simple:additions"/>And who hath by his Letter exhorting unto ſuch Agreement, given us an occaſion to bring in this Teſtimony, ſuch as it is, for our bro<g ref="char:EOLhyphen"/>therly Communion with the whole company of Proteſtants pro<g ref="char:EOLhyphen"/>feſſing the Faith of Chriſt Jeſus. For we muſt ingenuouſly confeſs, that then, when all things were quiet, and no threatning ſignes of warre appeared, ſeeing we could not be permitted by the Biſhops at that time prevailing, to perform the Office of the Miniſtry in Publick, nor yet to enjoy the holy Ordinances without Subſcri<g ref="char:EOLhyphen"/>ption, and Conformity, (as they were wont to ſpeak) nor without the mixture of Humane Inventions with Divine Inſtitutions, we choſe rather to depart into the remote, and unknown Coaſts of the Earth, for the ſake of a purer worſhip, then to lye down under the Hierarchy in the abundance of all things, but with the prejudice of Conſcience. But, that in flying from our Country, we ſhould renounce communion with ſuch Churches as profeſs the Goſpel, is a thing which we confidently and ſolemnly deny.</p>
+                  <p>Certainly, ſo far as concerns our ſelves, in whatever Aſſemblies amongſt us the whole Company of them that profeſs the Goſpel, the Fundamentals of Doctrine, and Eſſentials of Order are maintained, although in many niceties of controverſal Divinity they are at leſs Agreement with us, we do hereby make it manifeſt (which yet we would alwayes have underſtood, ſo as the leaſt part of Truth, according to the nature of that Reverence which ought exactly to be yielded thereunto, may be preſerved) that we do acknowledge them all, and every one for Brethren; and that we ſhall be ready to give unto them the right hands of fellowſhip in the Lord, if in other things they be peaceable, and walk or<g ref="char:EOLhyphen"/>derly.</p>
+                  <p>We humbly beſeech the God and Father of our Lord Jeſus Chriſt, in whoſe lips is onely power to perſwade, that he would en<g ref="char:EOLhyphen"/>lighten Princes, Divines, and even all who are rightly called Chriſtians from the name of Chriſt, with the lively ſplendour of ſuch an Agreement, and draw them with a Soul-moving Energie to the divine Love of himſelf. As for that which concerns your ſelf, the ſweeteſt Follower of Peace, We ſhould account it an heinous crime to be wanting unto you in our Prayers to the very
+<pb n="12" facs="tcp:108144:38"/>God of Peace, That he would ſo preſerve your Life, your Courſe, and your Work, that you may bring unto a Concluſion your ſo eminent undertaking, with ſo many ſighs, labours, ſweatings, dan<g ref="char:EOLhyphen"/>gers, and with ſo great charges hitherto carried on: if otherwiſe, and that it ſeem good to the great Determiner of things, before this come to paſs to advance him that hath been a follower of peace on Earth, to the ſtate of a Bleſſed Saint in Heaven; That then he would raiſe up other <hi>Duryes,</hi> who may bring the work ſo happily begun to its deſired end.</p>
+                  <closer>
+                     <signed>Your moſt obſervant Brethren in Chriſt, The Miniſters of the Churches, and Preachers of the Word, Militant for the Faith of Jeſus in <hi>New-England:</hi>
+                        <list>
+                           <item>
+                              <hi>John Wilſon</hi> Paſtor of <hi>Boſton.</hi>
+                           </item>
+                           <item>
+                              <hi>John Norton</hi> Teacher of the ſame.</item>
+                           <item>
+                              <hi>John Mayo</hi> Paſtor of <hi>New-Boſton.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Mather</hi> Teacher of <hi>Dorcheſter.</hi>
+                           </item>
+                           <item>
+                              <hi>John Allin</hi> Paſtor of <hi>Dedham.</hi>
+                           </item>
+                           <item>
+                              <hi>John Eliot</hi> Teacher of <hi>Rexbury.</hi>
+                           </item>
+                           <item>
+                              <hi>Samuel Danforth</hi> Paſtor of the ſame.</item>
+                           <item>
+                              <hi>William Thomſon</hi> Paſtor of <hi>Braintry.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Flint</hi> Teacher of the ſame.</item>
+                           <item>
+                              <hi>Thomas Thatcher</hi> Teacher of <hi>Weymouth.</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Hubbard</hi> Paſtor of <hi>Hingham.</hi>
+                           </item>
+                           <item>
+                              <hi>John Miller</hi> Paſtor of <hi>Yarmouth.</hi>
+                           </item>
+                           <item>
+                              <hi>John Wilſon junior</hi> Paſtor of <hi>Medfield.</hi>
+                           </item>
+                           <item>
+                              <hi>Zechariah Symmes</hi> Paſtor of <hi>Charlſtown.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Shepard</hi> Peacher of the ſame.</item>
+                           <item>
+                              <hi>Samuel Stone</hi> Teacher of <hi>Hartford</hi>
+                           </item>
+                           <item>
+                              <hi>Jonathan Mitchel</hi> Paſtor of <hi>Cambridge.</hi>
+                           </item>
+                           <item>
+                              <hi>John Sherman</hi> Paſtor of <hi>Watertown.</hi>
+                           </item>
+                           <item>
+                              <hi>Edmund Brown</hi> Paſtor of <hi>Sudbury.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Bulkly</hi> Paſtor of <hi>Concord.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Carter</hi> Paſtor of <hi>Woborne.</hi>
+                           </item>
+                           <item>
+                              <hi>Samuel Haugh</hi> Paſtor of <hi>Reding.</hi>
+                           </item>
+                           <item>
+                              <hi>John Fiske</hi> Paſtor of <hi>Chelmsford.</hi>
+                           </item>
+                           <item>
+                              <hi>John Reyner</hi> Teacher of <hi>Dover.</hi>
+                           </item>
+                           <item>
+                              <hi>Ezekiel Regers</hi> Paſtor of <hi>Rowly</hi>
+                           </item>
+                           <item>
+                              <hi>Samuel Philips</hi> Teacher of the ſame.</item>
+                           <item>
+                              <hi>Samuel Whiting</hi> Paſtor of <hi>Lyn.</hi>
+                           </item>
+                           <item>
+                              <hi>John Higginſon</hi> Paſtor of <hi>Salem.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Cobbet</hi> Paſtor of <hi>Ipſwich.</hi>
+                           </item>
+                           <item>
+                              <hi>William Hubbard</hi> Teacher of the ſame.</item>
+                           <item>
+                              <hi>Francis Dane</hi> Teacher of <hi>Andover</hi>
+                           </item>
+                           <item>
+                              <hi>William Worceſter</hi> Paſtor of <hi>Salisbury.</hi>
+                           </item>
+                           <item>
+                              <hi>John Ward</hi> Paſtor of <hi>Haverhil.</hi>
+                           </item>
+                           <item>
+                              <hi>Timothy Dalton</hi> Teacher of <hi>Hampton.</hi>
+                           </item>
+                           <item>
+                              <hi>Seaborn Cotton</hi> of the ſame.</item>
+                           <item>
+                              <hi>Joſeph Emerſon</hi> Paſtor of <hi>York.</hi>
+                           </item>
+                           <item>
+                              <hi>Michael Wiggleſworth</hi> Paſtor of <hi>Maldon.</hi>
+                           </item>
+                           <item>
+                              <hi>William Walton</hi> Miniſter of the Word.</item>
+                           <item>
+                              <hi>Ralph Smith</hi> Miniſter of the Word.</item>
+                           <item>
+                              <hi>Charles Chauncy,</hi> Preſident of <hi>Harvard</hi> Colledge.</item>
+                           <item>
+                              <hi>Gerſhom Bulkly</hi> Fellows of the ſaid Colledge.</item>
+                           <item>
+                              <hi>Thomas Graves</hi> Fellows of the ſaid Colledge.</item>
+                           <item>
+                              <hi>Zech. Symmes</hi> Fellows of the ſaid Colledge.</item>
+                           <item>
+                              <hi>Zech. Brigden</hi> Fellows of the ſaid Colledge.</item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:108144:38"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
